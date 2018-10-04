@@ -1,0 +1,996 @@
+﻿Province,ProvinceCode,District,DistrictCode,FullName,Lat,Lon
+Samsun,55,19 Mayıs,1830,"19 Mayıs, Samsun",41.367220,36.198500
+Kastamonu,37,Abana,1101,"Abana, Kastamonu",41.952571,34.076700
+Nevşehir,50,Acıgöl,1749,"Acıgöl, Nevşehir",38.541111,34.620300
+Denizli,20,Acıpayam,1102,"Acıpayam, Denizli",37.426385,29.351100
+Bingöl,12,Adaklı,1750,"Adaklı, Bingöl",39.253708,40.587900
+İstanbul,34,Adalar,1103,"Adalar, İstanbul",40.874093,29.089900
+Sakarya,54,Adapazarı,2068,"Adapazarı, Sakarya",40.788855,30.406000
+Bitlis,13,Adilcevaz,1106,"Adilcevaz, Bitlis",38.804925,42.736500
+Adıyaman,2,Adıyaman Merkez,1105,"Adıyaman Merkez, Adıyaman",37.763650,38.277300
+Kahramanmaraş,46,Afşin,1107,"Afşin, Kahramanmaraş",38.243802,36.914700
+Afyonkarahisar,3,Afyonkarahisar Merkez,1108,"Afyonkarahisar Merkez, Afyonkarahisar",38.756885,30.538700
+Aksaray,68,Ağaçören,1860,"Ağaçören, Aksaray",38.868998,33.914100
+Elazığ,23,Ağın,1110,"Ağın, Elazığ",38.953195,38.673700
+Burdur,15,Ağlasun,1109,"Ağlasun, Burdur",37.602238,30.597000
+Kastamonu,37,Ağlı,1867,"Ağlı, Kastamonu",41.699557,33.582400
+Ağrı,4,Ağrı Merkez,1111,"Ağrı Merkez, Ağrı",39.719074,43.050600
+Konya,42,Ahırlı,1868,"Ahırlı, Konya",37.235553,32.106500
+Bitlis,13,Ahlat,1112,"Ahlat, Bitlis",38.755285,42.487100
+Manisa,45,Ahmetli,1751,"Ahmetli, Manisa",38.516381,27.938000
+Trabzon,61,Akçaabat,1113,"Akçaabat, Trabzon",41.022042,39.570900
+Malatya,44,Akçadağ,1114,"Akçadağ, Malatya",38.388353,37.796100
+Şanlıurfa,63,Akçakale,1115,"Akçakale, Şanlıurfa",36.713349,38.948400
+Kırşehir,40,Akçakent,1869,"Akçakent, Kırşehir",39.587263,34.108700
+Düzce,81,Akçakoca,1116,"Akçakoca, Düzce",41.088181,31.124000
+Yozgat,66,Akdağmadeni,1117,"Akdağmadeni, Yozgat",39.660180,35.882300
+Mersin,33,Akdeniz,2064,"Akdeniz, Mersin",36.868824,34.707800
+Manisa,45,Akhisar,1118,"Akhisar, Manisa",38.917664,27.836600
+Sivas,58,Akıncılar,1870,"Akıncılar, Sivas",40.078944,38.346400
+Kayseri,38,Akkışla,1752,"Akkışla, Kayseri",38.993421,36.200000
+Ordu,52,Akkuş,1119,"Akkuş, Ordu",40.791322,37.018300
+Konya,42,Akören,1753,"Akören, Konya",37.452598,32.371100
+Kırşehir,40,Akpınar,1754,"Akpınar, Kırşehir",39.499477,33.930400
+Aksaray,68,Aksaray Merkez,1120,"Aksaray Merkez, Aksaray",38.368626,34.029700
+Konya,42,Akşehir,1122,"Akşehir, Konya",38.360258,31.418000
+Antalya,7,Akseki,1121,"Akseki, Antalya",37.087300,31.765100
+Antalya,7,Aksu / Antalya,2035,"Aksu / Antalya, Antalya",36.947597,30.850200
+Isparta,32,Aksu / Isparta,1755,"Aksu / Isparta, Isparta",37.799251,31.069600
+Kars,36,Akyaka,1756,"Akyaka, Kars",40.771775,43.646200
+Sakarya,54,Akyazı,1123,"Akyazı, Sakarya",40.683486,30.624900
+Ankara,6,Akyurt,1872,"Akyurt, Ankara",40.132957,33.114600
+Çorum,19,Alaca,1124,"Alaca, Çorum",40.192970,34.836700
+Elazığ,23,Alacakaya,1873,"Alacakaya, Elazığ",38.461835,39.861700
+Samsun,55,Alaçam,1125,"Alaçam, Samsun",41.604294,35.598600
+Adana,1,Aladağ,1757,"Aladağ, Adana",37.545348,35.394600
+Antalya,7,Alanya,1126,"Alanya, Antalya",36.544443,31.995400
+Zonguldak,67,Alaplı,1758,"Alaplı, Zonguldak",41.182690,31.384500
+Manisa,45,Alaşehir,1127,"Alaşehir, Manisa",38.354458,28.516500
+İzmir,35,Aliağa,1128,"Aliağa, İzmir",38.799561,26.970700
+Tokat,60,Almus,1129,"Almus, Tokat",40.376064,36.903500
+Eskişehir,26,Alpu,1759,"Alpu, Eskişehir",39.813104,31.033500
+Balıkesir,10,Altıeylül,2077,"Altıeylül, Balıkesir",39.555903,27.878000
+Ankara,6,Altındağ,1130,"Altındağ, Ankara",40.009268,32.983300
+Konya,42,Altınekin,1760,"Altınekin, Konya",38.308274,32.868900
+Ordu,52,Altınordu,2103,"Altınordu, Ordu",40.986166,37.879700
+Yalova,77,Altınova,2019,"Altınova, Yalova",40.643074,29.476000
+Hatay,31,Altınözü,1131,"Altınözü, Hatay",36.077272,36.306500
+Kütahya,43,Altıntaş,1132,"Altıntaş, Kütahya",39.057997,30.108600
+Burdur,15,Altınyayla / Burdur,1874,"Altınyayla / Burdur, Burdur",36.997551,29.544600
+Sivas,58,Altınyayla / Sivas,1875,"Altınyayla / Sivas, Sivas",39.251240,36.758000
+Niğde,51,Altunhisar,1876,"Altunhisar, Niğde",37.997985,34.371200
+Giresun,28,Alucra,1133,"Alucra, Giresun",40.369084,38.801000
+Bartın,74,Amasra,1761,"Amasra, Bartın",41.747021,32.385500
+Amasya,5,Amasya Merkez,1134,"Amasya Merkez, Amasya",40.656455,35.837300
+Mersin,33,Anamur,1135,"Anamur, Mersin",36.077286,32.832900
+Kahramanmaraş,46,Andırın,1136,"Andırın, Kahramanmaraş",37.575718,36.349800
+Hatay,31,Antakya,2080,"Antakya, Hatay",36.196803,36.161200
+Antalya,7,Antalya Merkez,1138,"Antalya Merkez, Antalya",36.921000,30.785400
+Gaziantep,27,Araban,1139,"Araban, Gaziantep",37.425370,37.689600
+Kastamonu,37,Araç,1140,"Araç, Kastamonu",41.242642,33.328500
+Trabzon,61,Araklı,1141,"Araklı, Trabzon",40.939716,40.055200
+Iğdır,76,Aralık,1142,"Aralık, Iğdır",39.873902,44.516100
+Malatya,44,Arapgir,1143,"Arapgir, Malatya",39.042835,38.488400
+Ardahan,75,Ardahan Merkez,1144,"Ardahan Merkez, Ardahan",41.112950,42.702300
+Artvin,8,Ardanuç,1145,"Ardanuç, Artvin",41.093738,42.187600
+Rize,53,Ardeşen,1146,"Ardeşen, Rize",41.191782,40.989100
+Malatya,44,Arguvan,1148,"Arguvan, Malatya",38.824114,38.288800
+Artvin,8,Arhavi,1147,"Arhavi, Artvin",41.353055,41.309000
+Elazığ,23,Arıcak,1762,"Arıcak, Elazığ",38.551071,40.095700
+Sakarya,54,Arifiye,2069,"Arifiye, Sakarya",40.695581,30.366600
+Yalova,77,Armutlu,2020,"Armutlu, Yalova",40.518842,28.829400
+İstanbul,34,Arnavutköy,2048,"Arnavutköy, İstanbul",41.238421,28.626500
+Kars,36,Arpaçay,1149,"Arpaçay, Kars",40.846747,43.332100
+Trabzon,61,Arsin,1150,"Arsin, Trabzon",40.953956,39.937200
+Hatay,31,Arsuz,2081,"Arsuz, Hatay",36.416667,35.883300
+Tokat,60,Artova,1151,"Artova, Tokat",40.117964,36.301400
+Mardin,47,Artuklu,2088,"Artuklu, Mardin",37.423615,40.690000
+Artvin,8,Artvin Merkez,1152,"Artvin Merkez, Artvin",41.180937,41.820800
+Samsun,55,Asarcık,1763,"Asarcık, Samsun",41.037123,36.235000
+Erzurum,25,Aşkale,1153,"Aşkale, Erzurum",39.920188,40.694700
+Kütahya,43,Aslanapa,1764,"Aslanapa, Kütahya",39.179419,29.835200
+Isparta,32,Atabey,1154,"Atabey, Isparta",37.974833,30.643000
+Samsun,55,Atakum,2072,"Atakum, Samsun",41.279703,36.336100
+İstanbul,34,Ataşehir,2049,"Ataşehir, İstanbul",40.983333,29.127800
+Çankırı,18,Atkaracalar,1765,"Atkaracalar, Çankırı",40.815512,33.075500
+Nevşehir,50,Avanos,1155,"Avanos, Nevşehir",38.710814,34.842100
+İstanbul,34,Avcılar,2003,"Avcılar, İstanbul",41.015348,28.731500
+Sinop,57,Ayancık,1156,"Ayancık, Sinop",41.945806,34.588400
+Ankara,6,Ayaş,1157,"Ayaş, Ankara",40.019034,32.310800
+Ordu,52,Aybastı,1158,"Aybastı, Ordu",40.684500,37.398800
+Aydın,9,Aydın Merkez,1159,"Aydın Merkez, Aydın",37.838016,27.845600
+Mersin,33,Aydıncık / Mersin,1766,"Aydıncık / Mersin, Mersin",36.230676,33.303700
+Yozgat,66,Aydıncık / Yozgat,1877,"Aydıncık / Yozgat, Yozgat",40.128571,35.286300
+Bayburt,69,Aydıntepe,1767,"Aydıntepe, Bayburt",40.389843,40.146800
+Karaman,70,Ayrancı,1768,"Ayrancı, Karaman",37.361767,33.689300
+Çanakkale,17,Ayvacık / Çanakkale,1160,"Ayvacık / Çanakkale, Çanakkale",39.603753,26.401900
+Samsun,55,Ayvacık / Samsun,1879,"Ayvacık / Samsun, Samsun",40.989607,36.630800
+Balıkesir,10,Ayvalık,1161,"Ayvalık, Balıkesir",39.319185,26.692400
+Kastamonu,37,Azdavay,1162,"Azdavay, Kastamonu",41.642533,33.305700
+Erzurum,25,Aziziye,1945,"Aziziye, Erzurum",39.945790,41.105200
+Denizli,20,Babadağ,1769,"Babadağ, Denizli",37.810661,28.858800
+Kırklareli,39,Babaeski,1163,"Babaeski, Kırklareli",41.431324,27.091800
+Samsun,55,Bafra,1164,"Bafra, Samsun",41.561959,35.905700
+İstanbul,34,Bağcılar,2004,"Bağcılar, İstanbul",41.045647,28.824700
+Diyarbakır,21,Bağlar,2040,"Bağlar, Diyarbakır",37.924973,40.211000
+Osmaniye,80,Bahçe,1165,"Bahçe, Osmaniye",37.196622,36.572600
+İstanbul,34,Bahçelievler,2005,"Bahçelievler, İstanbul",40.997500,28.850600
+Van,65,Bahçesaray,1770,"Bahçesaray, Van",38.076900,42.772000
+Kırıkkale,71,Bahşili,1880,"Bahşili, Kırıkkale",39.700743,33.371100
+İstanbul,34,Bakırköy,1166,"Bakırköy, İstanbul",40.983198,28.853600
+Denizli,20,Baklan,1881,"Baklan, Denizli",37.976748,29.606900
+Ankara,6,Bala,1167,"Bala, Ankara",39.553374,33.123800
+İzmir,35,Balçova,2006,"Balçova, İzmir",38.389083,27.050000
+Balıkesir,10,Balıkesir Merkez,1168,"Balıkesir Merkez, Balıkesir",39.653298,27.890300
+Kırıkkale,71,Balışeyh,1882,"Balışeyh, Kırıkkale",39.909775,33.718200
+Balıkesir,10,Balya,1169,"Balya, Balıkesir",39.749872,27.578800
+Uşak,64,Banaz,1170,"Banaz, Uşak",38.739820,29.753200
+Balıkesir,10,Bandırma,1171,"Bandırma, Balıkesir",40.353707,27.971400
+Bartın,74,Bartın Merkez,1172,"Bartın Merkez, Bartın",41.637602,32.333800
+İstanbul,34,Başakşehir,2050,"Başakşehir, İstanbul",41.101517,28.789800
+Tokat,60,Başçiftlik,1883,"Başçiftlik, Tokat",40.546985,37.168200
+Kocaeli,41,Başiskele,2058,"Başiskele, Kocaeli",40.629837,29.950900
+Van,65,Başkale,1175,"Başkale, Van",38.047600,44.014900
+Elazığ,23,Baskil,1173,"Baskil, Elazığ",38.567829,38.823700
+Afyonkarahisar,3,Başmakçı,1771,"Başmakçı, Afyonkarahisar",37.898784,30.009300
+Karaman,70,Başyayla,1884,"Başyayla, Karaman",36.753705,32.677000
+Batman,72,Batman Merkez,1174,"Batman Merkez, Batman",37.889517,41.129300
+Malatya,44,Battalgazi,1772,"Battalgazi, Malatya",38.425020,38.365400
+Afyonkarahisar,3,Bayat / Afyonkarahisar,1773,"Bayat / Afyonkarahisar, Afyonkarahisar",38.984257,30.923900
+Çorum,19,Bayat / Çorum,1177,"Bayat / Çorum, Çorum",40.644503,34.262900
+Bayburt,69,Bayburt Merkez,1176,"Bayburt Merkez, Bayburt",40.260320,40.228000
+İzmir,35,Bayındır,1178,"Bayındır, İzmir",38.237068,27.596500
+Siirt,56,Baykan,1179,"Baykan, Siirt",38.159961,41.731900
+İzmir,35,Bayraklı,2056,"Bayraklı, İzmir",38.479389,27.138200
+Çanakkale,17,Bayramiç,1180,"Bayramiç, Çanakkale",39.809523,26.612000
+Çankırı,18,Bayramören,1885,"Bayramören, Çankırı",40.997309,33.215600
+İstanbul,34,Bayrampaşa,1886,"Bayrampaşa, İstanbul",41.048150,28.900500
+Denizli,20,Bekilli,1774,"Bekilli, Denizli",38.230167,29.418800
+Hatay,31,Belen,1887,"Belen, Hatay",36.451416,36.154500
+İzmir,35,Bergama,1181,"Bergama, İzmir",39.121449,27.179900
+Trabzon,61,Beşikdüzü,1775,"Beşikdüzü, Trabzon",41.051660,39.231300
+İstanbul,34,Beşiktaş,1183,"Beşiktaş, İstanbul",41.044000,29.002000
+Batman,72,Beşiri,1184,"Beşiri, Batman",37.916208,41.292700
+Adıyaman,2,Besni,1182,"Besni, Adıyaman",37.622790,37.893700
+Denizli,20,Beyağaç,1888,"Beyağaç, Denizli",37.191026,28.906300
+İzmir,35,Beydağ,1776,"Beydağ, İzmir",38.093727,28.229300
+İstanbul,34,Beykoz,1185,"Beykoz, İstanbul",41.142944,29.178200
+İstanbul,34,Beylikdüzü,2051,"Beylikdüzü, İstanbul",40.991038,28.649800
+Eskişehir,26,Beylikova,1777,"Beylikova, Eskişehir",39.689399,31.205800
+İstanbul,34,Beyoğlu,1186,"Beyoğlu, İstanbul",41.038286,28.970300
+Ankara,6,Beypazarı,1187,"Beypazarı, Ankara",40.168218,31.920400
+Konya,42,Beyşehir,1188,"Beyşehir, Konya",37.679796,31.724300
+Şırnak,73,Beytüşşebap,1189,"Beytüşşebap, Şırnak",37.570015,43.164000
+Çanakkale,17,Biga,1190,"Biga, Çanakkale",40.226527,27.243600
+Balıkesir,10,Bigadiç,1191,"Bigadiç, Balıkesir",39.393883,28.131500
+Bilecik,11,Bilecik Merkez,1192,"Bilecik Merkez, Bilecik",40.142573,29.979300
+Bingöl,12,Bingöl Merkez,1193,"Bingöl Merkez, Bingöl",38.885464,40.496600
+Şanlıurfa,63,Birecik,1194,"Birecik, Şanlıurfa",37.024993,37.977500
+Diyarbakır,21,Bismil,1195,"Bismil, Diyarbakır",37.850055,40.668700
+Bitlis,13,Bitlis Merkez,1196,"Bitlis Merkez, Bitlis",38.400569,42.109500
+Muğla,48,Bodrum,1197,"Bodrum, Muğla",37.034407,27.430500
+Çorum,19,Boğazkale,1778,"Boğazkale, Çorum",40.021565,34.609300
+Yozgat,66,Boğazlıyan,1198,"Boğazlıyan, Yozgat",39.193667,35.246800
+Bolu,14,Bolu Merkez,1199,"Bolu Merkez, Bolu",40.732541,31.608200
+Afyonkarahisar,3,Bolvadin,1200,"Bolvadin, Afyonkarahisar",38.712600,31.048400
+Niğde,51,Bor,1201,"Bor, Niğde",37.894025,34.561800
+Artvin,8,Borçka,1202,"Borçka, Artvin",41.363700,41.679100
+İzmir,35,Bornova,1203,"Bornova, İzmir",38.470982,27.217700
+Sinop,57,Boyabat,1204,"Boyabat, Sinop",41.466105,34.771100
+Çanakkale,17,Bozcaada,1205,"Bozcaada, Çanakkale",39.816563,26.029600
+Aydın,9,Bozdoğan,1206,"Bozdoğan, Aydın",37.672873,28.310200
+Konya,42,Bozkır,1207,"Bozkır, Konya",37.188912,32.245400
+Denizli,20,Bozkurt / Denizli,1889,"Bozkurt / Denizli, Denizli",37.796720,29.557200
+Kastamonu,37,Bozkurt / Kastamonu,1208,"Bozkurt / Kastamonu, Kastamonu",41.867100,34.011900
+Şanlıurfa,63,Bozova,1209,"Bozova, Şanlıurfa",37.336728,38.358700
+Kırşehir,40,Boztepe,1890,"Boztepe, Kırşehir",39.270216,34.265800
+Bilecik,11,Bozüyük,1210,"Bozüyük, Bilecik",39.906058,30.039800
+Mersin,33,Bozyazı,1779,"Bozyazı, Mersin",36.237393,33.033900
+İzmir,35,Buca,1780,"Buca, İzmir",38.333736,27.291100
+Burdur,15,Bucak,1211,"Bucak, Burdur",37.456548,30.589800
+Aydın,9,Buharkent,1781,"Buharkent, Aydın",37.963903,28.743000
+Giresun,28,Bulancak,1212,"Bulancak, Giresun",40.937513,38.232000
+Muş,49,Bulanık,1213,"Bulanık, Muş",39.096560,42.268100
+Denizli,20,Buldan,1214,"Buldan, Denizli",38.044206,28.834600
+Kayseri,38,Bünyan,1218,"Bünyan, Kayseri",38.855062,35.852100
+Burdur,15,Burdur Merkez,1215,"Burdur Merkez, Burdur",37.718336,30.282300
+Balıkesir,10,Burhaniye,1216,"Burhaniye, Balıkesir",39.503055,26.980200
+İstanbul,34,Büyükçekmece,1782,"Büyükçekmece, İstanbul",41.053402,28.556500
+Bursa,16,Büyükorhan,1783,"Büyükorhan, Bursa",39.739469,28.906300
+Kahramanmaraş,46,Çağlayancerit,1785,"Çağlayancerit, Kahramanmaraş",37.719165,37.340000
+Denizli,20,Çal,1224,"Çal, Denizli",38.083013,29.397300
+Van,65,Çaldıran,1786,"Çaldıran, Van",39.142000,43.914000
+Niğde,51,Çamardı,1225,"Çamardı, Niğde",37.833488,34.985700
+Ordu,52,Çamaş,1891,"Çamaş, Ordu",40.895375,37.521100
+Denizli,20,Çameli,1226,"Çameli, Denizli",37.012720,29.278600
+Ankara,6,Çamlıdere,1227,"Çamlıdere, Ankara",40.491620,32.476500
+Rize,53,Çamlıhemşin,1228,"Çamlıhemşin, Rize",40.878269,41.014800
+Mersin,33,Çamlıyayla,1892,"Çamlıyayla, Mersin",37.279960,34.552800
+Giresun,28,Çamoluk,1893,"Çamoluk, Giresun",40.129453,38.747500
+Çanakkale,17,Çan,1229,"Çan, Çanakkale",40.028167,27.046600
+Giresun,28,Çanakçı,1894,"Çanakçı, Giresun",40.917088,39.009700
+Çanakkale,17,Çanakkale Merkez,1230,"Çanakkale Merkez, Çanakkale",40.146720,26.408600
+Yozgat,66,Çandır,1895,"Çandır, Yozgat",39.243376,35.517200
+Samsun,55,Canik,2073,"Canik, Samsun",41.279703,36.336100
+Ankara,6,Çankaya,1231,"Çankaya, Ankara",39.845184,32.921200
+Çankırı,18,Çankırı Merkez,1232,"Çankırı Merkez, Çankırı",40.600207,33.616200
+Denizli,20,Çardak,1233,"Çardak, Denizli",37.825035,29.668300
+Samsun,55,Çarşamba,1234,"Çarşamba, Samsun",41.198523,36.721800
+Trabzon,61,Çarşıbaşı,1896,"Çarşıbaşı, Trabzon",41.040937,39.406300
+Erzurum,25,Çat,1235,"Çat, Erzurum",39.612047,40.977600
+Van,65,Çatak,1236,"Çatak, Van",38.123165,43.088200
+İstanbul,34,Çatalca,1237,"Çatalca, İstanbul",41.142259,28.457500
+Ordu,52,Çatalpınar,1897,"Çatalpınar, Ordu",41.105968,37.256700
+Kastamonu,37,Çatalzeytin,1238,"Çatalzeytin, Kastamonu",41.873097,34.225600
+Kütahya,43,Çavdarhisar,1898,"Çavdarhisar, Kütahya",39.196872,29.617200
+Burdur,15,Çavdır,1899,"Çavdır, Burdur",37.121819,29.742600
+Afyonkarahisar,3,Çay,1239,"Çay, Afyonkarahisar",38.592257,31.026000
+Ordu,52,Çaybaşı,1900,"Çaybaşı, Ordu",41.017434,37.098500
+Zonguldak,67,Çaycuma,1240,"Çaycuma, Zonguldak",41.428644,32.077200
+Rize,53,Çayeli,1241,"Çayeli, Rize",41.090154,40.727500
+Yozgat,66,Çayıralan,1242,"Çayıralan, Yozgat",39.304892,35.644500
+Erzincan,24,Çayırlı,1243,"Çayırlı, Erzincan",39.826369,39.951300
+Kocaeli,41,Çayırova,2059,"Çayırova, Kocaeli",40.836142,29.383100
+Trabzon,61,Çaykara,1244,"Çaykara, Trabzon",40.748484,40.242400
+Yozgat,66,Çekerek,1245,"Çekerek, Yozgat",40.071085,35.497500
+İstanbul,34,Çekmeköy,2052,"Çekmeköy, İstanbul",41.104235,29.317700
+Kırıkkale,71,Çelebi,1901,"Çelebi, Kırıkkale",39.464667,33.525600
+Adıyaman,2,Çelikhan,1246,"Çelikhan, Adıyaman",38.097555,38.274400
+Konya,42,Çeltik,1902,"Çeltik, Konya",39.023429,31.790600
+Burdur,15,Çeltikçi,1903,"Çeltikçi, Burdur",37.525446,30.458800
+Tunceli,62,Çemişgezek,1247,"Çemişgezek, Tunceli",39.062575,38.912400
+Çankırı,18,Çerkeş,1248,"Çerkeş, Çankırı",40.811325,32.891100
+Tekirdağ,59,Çerkezköy,1250,"Çerkezköy, Tekirdağ",41.282360,28.000600
+Diyarbakır,21,Çermik,1249,"Çermik, Diyarbakır",38.135092,39.456100
+İzmir,35,Çeşme,1251,"Çeşme, İzmir",38.324311,26.303200
+Adana,1,Ceyhan,1219,"Ceyhan, Adana",37.028765,35.812400
+Şanlıurfa,63,Ceylanpınar,1220,"Ceylanpınar, Şanlıurfa",36.909186,39.734300
+Kırşehir,40,Çiçekdağı,1254,"Çiçekdağı, Kırşehir",39.589548,34.321400
+Kastamonu,37,Cide,1221,"Cide, Kastamonu",41.892221,33.003700
+Eskişehir,26,Çifteler,1255,"Çifteler, Eskişehir",39.382000,31.040800
+Niğde,51,Çiftlik,1904,"Çiftlik, Niğde",38.181164,34.552800
+Yalova,77,Çiftlikköy,2022,"Çiftlikköy, Yalova",40.662748,29.315300
+İzmir,35,Çiğli,2007,"Çiğli, İzmir",38.494025,26.961700
+Konya,42,Cihanbeyli,1222,"Cihanbeyli, Konya",38.656883,32.923300
+Ardahan,75,Çıldır,1252,"Çıldır, Ardahan",41.119467,43.123800
+Düzce,81,Çilimli,1905,"Çilimli, Düzce",40.895106,31.041600
+Diyarbakır,21,Çınar,1253,"Çınar, Diyarbakır",37.668469,40.272200
+Yalova,77,Çınarcık,2021,"Çınarcık, Yalova",40.645156,29.119200
+Aydın,9,Çine,1256,"Çine, Aydın",37.614081,28.061100
+Denizli,20,Çivril,1257,"Çivril, Denizli",38.302120,29.740300
+Şırnak,73,Cizre,1223,"Cizre, Şırnak",37.332346,42.185500
+Afyonkarahisar,3,Çobanlar,1906,"Çobanlar, Afyonkarahisar",38.701468,30.781500
+Tekirdağ,59,Çorlu,1258,"Çorlu, Tekirdağ",41.155812,27.813700
+Çorum,19,Çorum Merkez,1259,"Çorum Merkez, Çorum",40.549926,34.953700
+Ankara,6,Çubuk,1260,"Çubuk, Ankara",40.295020,33.070700
+Hakkari,30,Çukurca,1261,"Çukurca, Hakkari",37.293709,43.671200
+Adana,1,Çukurova,2033,"Çukurova, Adana",37.098970,35.148900
+Düzce,81,Cumayeri,1784,"Cumayeri, Düzce",40.873338,30.950800
+Konya,42,Çumra,1262,"Çumra, Konya",37.573899,32.781000
+Diyarbakır,21,Çüngüş,1263,"Çüngüş, Diyarbakır",38.268644,39.329600
+Kastamonu,37,Daday,1264,"Daday, Kastamonu",41.477626,33.469200
+Muğla,48,Dalaman,1742,"Dalaman, Muğla",36.766620,28.800000
+Ardahan,75,Damal,2008,"Damal, Ardahan",41.339617,42.839500
+Malatya,44,Darende,1265,"Darende, Malatya",38.556664,37.490600
+Mardin,47,Dargeçit,1787,"Dargeçit, Mardin",37.546184,41.720400
+Kocaeli,41,Darıca,2060,"Darıca, Kocaeli",40.773863,29.400300
+Muğla,48,Datça,1266,"Datça, Muğla",36.726217,27.685800
+Afyonkarahisar,3,Dazkırı,1267,"Dazkırı, Afyonkarahisar",37.952444,29.835200
+Hatay,31,Defne,2082,"Defne, Hatay",36.164308,36.111100
+Kırıkkale,71,Delice,1268,"Delice, Kırıkkale",40.000129,33.973900
+Manisa,45,Demirci,1269,"Demirci, Manisa",39.047336,28.658500
+Kırklareli,39,Demirköy,1270,"Demirköy, Kırklareli",41.822618,27.762800
+Bayburt,69,Demirözü,1788,"Demirözü, Bayburt",40.162535,39.892800
+Antalya,7,Demre,1811,"Demre, Antalya",36.244444,29.987500
+Denizli,20,Denizli Merkez,1271,"Denizli Merkez, Denizli",37.783016,29.096300
+Konya,42,Derbent,1907,"Derbent, Konya",38.013432,32.015300
+Konya,42,Derebucak,1789,"Derebucak, Konya",37.400176,31.491300
+Giresun,28,Dereli,1272,"Dereli, Giresun",40.739918,38.449400
+Rize,53,Derepazarı,1908,"Derepazarı, Rize",41.023980,40.421800
+Mardin,47,Derik,1273,"Derik, Mardin",37.364657,40.267900
+Kocaeli,41,Derince,2030,"Derince, Kocaeli",40.756189,29.830900
+Nevşehir,50,Derinkuyu,1274,"Derinkuyu, Nevşehir",38.374548,34.733400
+Trabzon,61,Dernekpazarı,1909,"Dernekpazarı, Trabzon",40.799118,40.247800
+Kayseri,38,Develi,1275,"Develi, Kayseri",38.388652,35.492800
+Zonguldak,67,Devrek,1276,"Devrek, Zonguldak",41.221412,31.954500
+Kastamonu,37,Devrekani,1277,"Devrekani, Kastamonu",41.603891,33.835200
+Diyarbakır,21,Dicle,1278,"Dicle, Diyarbakır",38.373308,40.075600
+Aydın,9,Didim,2000,"Didim, Aydın",37.376094,27.264700
+Kars,36,Digor,1279,"Digor, Kars",40.375083,43.414200
+İzmir,35,Dikili,1280,"Dikili, İzmir",39.074900,26.889200
+Sinop,57,Dikmen,1910,"Dikmen, Sinop",41.651167,35.263700
+Kocaeli,41,Dilovası,2061,"Dilovası, Kocaeli",40.845844,29.580400
+Afyonkarahisar,3,Dinar,1281,"Dinar, Afyonkarahisar",38.131228,30.297400
+Sivas,58,Divriği,1282,"Divriği, Sivas",39.374885,38.118500
+Ağrı,4,Diyadin,1283,"Diyadin, Ağrı",39.437676,43.686700
+Diyarbakır,21,Diyarbakır Merkez,1284,"Diyarbakır Merkez, Diyarbakır",37.946055,40.182300
+Çorum,19,Dodurga,1911,"Dodurga, Çorum",40.858764,34.808900
+Konya,42,Doğanhisar,1285,"Doğanhisar, Konya",38.145955,31.676800
+Giresun,28,Doğankent,1912,"Doğankent, Giresun",40.810153,38.916200
+Sivas,58,Doğanşar,1913,"Doğanşar, Sivas",40.214034,37.537600
+Malatya,44,Doğanşehir,1286,"Doğanşehir, Malatya",38.060794,37.893700
+Malatya,44,Doğanyol,1914,"Doğanyol, Malatya",38.288619,39.047800
+Kastamonu,37,Doğanyurt,1915,"Doğanyurt, Kastamonu",42.004299,33.460500
+Ağrı,4,Doğubayazıt,1287,"Doğubayazıt, Ağrı",39.547074,44.068800
+Kütahya,43,Domaniç,1288,"Domaniç, Kütahya",39.800999,29.612700
+Bolu,14,Dörtdivan,1916,"Dörtdivan, Bolu",40.720766,32.062500
+Hatay,31,Dörtyol,1289,"Dörtyol, Hatay",36.843358,36.221600
+Antalya,7,Döşemealtı,2036,"Döşemealtı, Antalya",37.023026,30.601200
+Kahramanmaraş,46,Dulkadiroğlu,2084,"Dulkadiroğlu, Kahramanmaraş",37.645281,37.040000
+Kütahya,43,Dumlupınar,1790,"Dumlupınar, Kütahya",38.855200,29.976200
+Sinop,57,Durağan,1290,"Durağan, Sinop",41.388223,35.238400
+Balıkesir,10,Dursunbey,1291,"Dursunbey, Balıkesir",39.585671,28.627100
+Düzce,81,Düzce Merkez,1292,"Düzce Merkez, Düzce",40.838720,31.162600
+Osmaniye,80,Düziçi,1743,"Düziçi, Osmaniye",37.240179,36.453300
+Trabzon,61,Düzköy,1917,"Düzköy, Trabzon",40.827357,39.370000
+Çanakkale,17,Eceabat,1293,"Eceabat, Çanakkale",40.227660,26.348600
+Edirne,22,Edirne Merkez,1295,"Edirne Merkez, Edirne",41.677130,26.555700
+Balıkesir,10,Edremit / Balıkesir,1294,"Edremit / Balıkesir, Balıkesir",39.665542,26.843900
+Van,65,Edremit / Van,1918,"Edremit / Van, Van",38.398456,43.236500
+Aydın,9,Efeler,2076,"Efeler, Aydın",37.838016,27.845600
+Karabük,78,Eflani,1296,"Eflani, Karabük",41.423130,32.958700
+Diyarbakır,21,Eğil,1791,"Eğil, Diyarbakır",38.196566,40.055500
+Isparta,32,Eğirdir,1297,"Eğirdir, Isparta",37.874067,30.850900
+Kahramanmaraş,46,Ekinözü,1919,"Ekinözü, Kahramanmaraş",37.960563,37.083000
+Elazığ,23,Elazığ Merkez,1298,"Elazığ Merkez, Elazığ",38.674816,39.222500
+Kilis,79,Elbeyli,2023,"Elbeyli, Kilis",36.700283,37.446800
+Kahramanmaraş,46,Elbistan,1299,"Elbistan, Kahramanmaraş",38.252212,37.382700
+Çankırı,18,Eldivan,1300,"Eldivan, Çankırı",40.505368,33.513200
+Ağrı,4,Eleşkirt,1301,"Eleşkirt, Ağrı",39.801400,42.676800
+Ankara,6,Elmadağ,1302,"Elmadağ, Ankara",39.922129,33.226300
+Antalya,7,Elmalı,1303,"Elmalı, Antalya",36.730472,29.881500
+Kütahya,43,Emet,1304,"Emet, Kütahya",39.344413,29.257900
+İstanbul,34,Eminönü,1305,"Eminönü, İstanbul",41.017222,28.971100
+Afyonkarahisar,3,Emirdağ,1306,"Emirdağ, Afyonkarahisar",39.020200,31.151000
+Konya,42,Emirgazi,1920,"Emirgazi, Konya",37.904083,33.836100
+Edirne,22,Enez,1307,"Enez, Edirne",40.725024,26.084600
+Tokat,60,Erbaa,1308,"Erbaa, Tokat",40.672726,36.571200
+Van,65,Erciş,1309,"Erciş, Van",39.029069,43.359100
+Balıkesir,10,Erdek,1310,"Erdek, Balıkesir",40.398320,27.791700
+Mersin,33,Erdemli,1311,"Erdemli, Mersin",36.605819,34.310200
+Konya,42,Ereğli / Konya,1312,"Ereğli / Konya, Konya",37.512316,34.048800
+Zonguldak,67,Ereğli / Zonguldak,1313,"Ereğli / Zonguldak, Zonguldak",41.279909,31.420300
+Sakarya,54,Erenler,2070,"Erenler, Sakarya",40.742686,30.458800
+Sinop,57,Erfelek,1314,"Erfelek, Sinop",41.880095,34.909500
+Diyarbakır,21,Ergani,1315,"Ergani, Diyarbakır",38.268035,39.761700
+Tekirdağ,59,Ergene,2094,"Ergene, Tekirdağ",41.361927,26.917500
+Karaman,70,Ermenek,1316,"Ermenek, Karaman",36.640261,32.892000
+Siirt,56,Eruh,1317,"Eruh, Siirt",37.707582,42.002000
+Hatay,31,Erzin,1792,"Erzin, Hatay",36.953839,36.205200
+Erzincan,24,Erzincan Merkez,1318,"Erzincan Merkez, Erzincan",39.746797,39.491100
+Erzurum,25,Erzurum Merkez,1319,"Erzurum Merkez, Erzurum",39.889801,41.265800
+İstanbul,34,Esenler,2016,"Esenler, İstanbul",41.079413,28.853900
+İstanbul,34,Esenyurt,2053,"Esenyurt, İstanbul",41.034318,28.661500
+Aksaray,68,Eskil,1921,"Eskil, Aksaray",38.401758,33.412800
+Karabük,78,Eskipazar,1321,"Eskipazar, Karabük",40.944500,32.532200
+Eskişehir,26,Eskişehir Merkez,1322,"Eskişehir Merkez, Eskişehir",39.801074,30.481600
+Uşak,64,Eşme,1323,"Eşme, Uşak",38.399880,28.971400
+Giresun,28,Espiye,1320,"Espiye, Giresun",40.949744,38.708500
+Ankara,6,Etimesgut,1922,"Etimesgut, Ankara",39.931035,32.650400
+Afyonkarahisar,3,Evciler,1923,"Evciler, Afyonkarahisar",38.041831,29.885800
+Ankara,6,Evren,1924,"Evren, Ankara",39.020236,33.805800
+Giresun,28,Eynesil,1324,"Eynesil, Giresun",41.063048,39.141000
+İstanbul,34,Eyüp,1325,"Eyüp, İstanbul",41.055000,28.934400
+Şanlıurfa,63,Eyyübiye,2091,"Eyyübiye, Şanlıurfa",37.004948,39.029400
+Çanakkale,17,Ezine,1326,"Ezine, Çanakkale",39.787126,26.335900
+İstanbul,34,Fatih,1327,"Fatih, İstanbul",41.016864,28.947000
+Ordu,52,Fatsa,1328,"Fatsa, Ordu",41.031231,37.500400
+Adana,1,Feke,1329,"Feke, Adana",37.814467,35.910400
+Kayseri,38,Felahiye,1330,"Felahiye, Kayseri",39.090096,35.567300
+Sakarya,54,Ferizli,1925,"Ferizli, Sakarya",40.993671,30.486500
+Muğla,48,Fethiye,1331,"Fethiye, Muğla",36.659246,29.126300
+Rize,53,Fındıklı,1332,"Fındıklı, Rize",41.270661,41.140100
+Antalya,7,Finike,1333,"Finike, Antalya",36.390988,30.112700
+İzmir,35,Foça,1334,"Foça, İzmir",38.670378,26.757900
+İzmir,35,Gaziemir,2009,"Gaziemir, İzmir",38.323122,27.138200
+İstanbul,34,Gaziosmanpaşa,1336,"Gaziosmanpaşa, İstanbul",41.075948,28.900500
+Antalya,7,Gazipaşa,1337,"Gazipaşa, Antalya",36.268562,32.314300
+Kocaeli,41,Gebze,1338,"Gebze, Kocaeli",40.932911,29.534000
+Kütahya,43,Gediz,1339,"Gediz, Kütahya",38.990736,29.395700
+Isparta,32,Gelendost,1341,"Gelendost, Isparta",38.072879,31.033500
+Çanakkale,17,Gelibolu,1340,"Gelibolu, Çanakkale",40.413985,26.670000
+Sivas,58,Gemerek,1342,"Gemerek, Sivas",39.184872,36.071700
+Bursa,16,Gemlik,1343,"Gemlik, Bursa",40.431820,29.155400
+Bingöl,12,Genç,1344,"Genç, Bingöl",38.667597,40.807500
+Batman,72,Gercüş,1345,"Gercüş, Batman",37.604074,41.301200
+Bolu,14,Gerede,1346,"Gerede, Bolu",40.800325,32.193300
+Adıyaman,2,Gerger,1347,"Gerger, Adıyaman",38.028856,39.032300
+Aydın,9,Germencik,1348,"Germencik, Aydın",37.872648,27.601100
+Sinop,57,Gerze,1349,"Gerze, Sinop",41.800599,35.192000
+Van,65,Gevaş,1350,"Gevaş, Van",38.297800,43.105500
+Sakarya,54,Geyve,1351,"Geyve, Sakarya",40.508635,30.290300
+Giresun,28,Giresun Merkez,1352,"Giresun Merkez, Giresun",40.917532,38.392700
+Çanakkale,17,Gökçeada,1408,"Gökçeada, Çanakkale",40.166924,25.839600
+Zonguldak,67,Gökçebey,1926,"Gökçebey, Zonguldak",41.300983,32.201800
+Kahramanmaraş,46,Göksun,1353,"Göksun, Kahramanmaraş",38.020382,36.494900
+Adıyaman,2,Gölbaşı / Adıyaman,1354,"Gölbaşı / Adıyaman, Adıyaman",37.770876,37.596100
+Ankara,6,Gölbaşı / Ankara,1744,"Gölbaşı / Ankara, Ankara",39.798293,32.805800
+Kocaeli,41,Gölcük,1355,"Gölcük, Kocaeli",40.716752,29.819500
+Ardahan,75,Göle,1356,"Göle, Ardahan",40.793352,42.609500
+Burdur,15,Gölhisar,1357,"Gölhisar, Burdur",37.140808,29.507500
+Ordu,52,Gölköy,1358,"Gölköy, Ordu",40.687727,37.617600
+Manisa,45,Gölmarmara,1793,"Gölmarmara, Manisa",38.713913,27.918400
+Sivas,58,Gölova,1927,"Gölova, Sivas",40.043289,38.597800
+Bilecik,11,Gölpazarı,1359,"Gölpazarı, Bilecik",40.251799,30.297400
+Düzce,81,Gölyaka,1794,"Gölyaka, Düzce",40.734872,30.988200
+Balıkesir,10,Gömeç,1928,"Gömeç, Balıkesir",39.390933,26.840000
+Balıkesir,10,Gönen / Balıkesir,1360,"Gönen / Balıkesir, Balıkesir",40.111696,27.643500
+Isparta,32,Gönen / Isparta,1929,"Gönen / Isparta, Isparta",37.958890,30.512300
+Manisa,45,Gördes,1362,"Gördes, Manisa",38.933029,28.288700
+Giresun,28,Görele,1361,"Görele, Giresun",41.033277,39.002100
+Amasya,5,Göynücek,1363,"Göynücek, Amasya",40.441795,35.529700
+Bolu,14,Göynük,1364,"Göynük, Bolu",40.290212,30.803900
+Giresun,28,Güce,1930,"Güce, Giresun",40.892977,38.807600
+Şırnak,73,Güçlükonak,1931,"Güçlükonak, Şırnak",37.472115,41.912400
+Ankara,6,Güdül,1365,"Güdül, Ankara",40.210512,32.245500
+Aksaray,68,Gülağaç,1932,"Gülağaç, Aksaray",38.394343,34.346100
+Mersin,33,Gülnar,1366,"Gülnar, Mersin",36.385125,33.303700
+Nevşehir,50,Gülşehir,1367,"Gülşehir, Nevşehir",38.742565,34.619200
+Ordu,52,Gülyalı,1795,"Gülyalı, Ordu",40.966824,38.056200
+Amasya,5,Gümüşhacıköy,1368,"Gümüşhacıköy, Amasya",40.873622,35.215900
+Gümüşhane,29,Gümüşhane Merkez,1369,"Gümüşhane Merkez, Gümüşhane",40.460825,39.480300
+Düzce,81,Gümüşova,2017,"Gümüşova, Düzce",40.840595,30.912700
+Antalya,7,Gündoğmuş,1370,"Gündoğmuş, Antalya",36.814942,31.999000
+Denizli,20,Güney,1371,"Güney, Denizli",38.181221,28.999400
+Konya,42,Güneysınır,1933,"Güneysınır, Konya",37.196916,32.673000
+Rize,53,Güneysu,1796,"Güneysu, Rize",40.977728,40.612600
+İstanbul,34,Güngören,2010,"Güngören, İstanbul",41.020546,28.874200
+Eskişehir,26,Günyüzü,1934,"Günyüzü, Eskişehir",39.341845,31.856300
+Ordu,52,Gürgentepe,1797,"Gürgentepe, Ordu",40.791420,37.600900
+Bitlis,13,Güroymak,1798,"Güroymak, Bitlis",38.602811,42.101100
+Van,65,Gürpınar,1372,"Gürpınar, Van",38.209894,43.563300
+Bursa,16,Gürsu,1935,"Gürsu, Bursa",40.265886,29.220500
+Sivas,58,Gürün,1373,"Gürün, Sivas",38.721349,37.271200
+İzmir,35,Güzelbahçe,2018,"Güzelbahçe, İzmir",38.328636,26.879300
+Aksaray,68,Güzelyurt,1861,"Güzelyurt, Aksaray",38.277528,34.372600
+Nevşehir,50,Hacıbektaş,1374,"Hacıbektaş, Nevşehir",38.942929,34.560900
+Kayseri,38,Hacılar,1936,"Hacılar, Kayseri",38.645982,35.452600
+Konya,42,Hadim,1375,"Hadim, Konya",36.986063,32.455900
+Sivas,58,Hafik,1376,"Hafik, Sivas",40.043434,37.353800
+Hakkari,30,Hakkari Merkez,1377,"Hakkari Merkez, Hakkari",37.577427,43.736800
+Şanlıurfa,63,Halfeti,1378,"Halfeti, Şanlıurfa",37.248236,37.868500
+Şanlıurfa,63,Haliliye,2092,"Haliliye, Şanlıurfa",37.750639,39.312500
+Konya,42,Halkapınar,1937,"Halkapınar, Konya",37.433643,34.186900
+Amasya,5,Hamamözü,1938,"Hamamözü, Amasya",40.770072,35.080500
+Ağrı,4,Hamur,1379,"Hamur, Ağrı",39.467236,43.110900
+Eskişehir,26,Han,1939,"Han, Eskişehir",39.192737,30.781000
+Ardahan,75,Hanak,1380,"Hanak, Ardahan",41.238176,42.776800
+Diyarbakır,21,Hani,1381,"Hani, Diyarbakır",38.410449,40.391600
+Kastamonu,37,Hanönü,1940,"Hanönü, Kastamonu",41.625403,34.463300
+Bursa,16,Harmancık,1799,"Harmancık, Bursa",39.701291,29.115800
+Şanlıurfa,63,Harran,1800,"Harran, Şanlıurfa",36.863131,39.024300
+Osmaniye,80,Hasanbeyli,2027,"Hasanbeyli, Osmaniye",37.131723,36.553000
+Batman,72,Hasankeyf,1941,"Hasankeyf, Batman",37.712806,41.415200
+Muş,49,Hasköy,1801,"Hasköy, Muş",38.684263,41.690800
+Hatay,31,Hassa,1382,"Hassa, Hatay",36.798635,36.522000
+Hatay,31,Hatay Merkez,1383,"Hatay Merkez, Hatay",36.208680,36.163200
+Balıkesir,10,Havran,1384,"Havran, Balıkesir",39.557790,27.100200
+Edirne,22,Havsa,1385,"Havsa, Edirne",41.555006,26.843900
+Samsun,55,Havza,1386,"Havza, Samsun",41.057972,35.734700
+Ankara,6,Haymana,1387,"Haymana, Ankara",39.434232,32.495700
+Tekirdağ,59,Hayrabolu,1388,"Hayrabolu, Tekirdağ",41.213450,27.106800
+Trabzon,61,Hayrat,1942,"Hayrat, Trabzon",40.888814,40.367500
+Diyarbakır,21,Hazro,1389,"Hazro, Diyarbakır",38.253757,40.780800
+Malatya,44,Hekimhan,1390,"Hekimhan, Malatya",38.816525,37.930800
+Rize,53,Hemşin,1943,"Hemşin, Rize",41.048202,40.899100
+Sakarya,54,Hendek,1391,"Hendek, Sakarya",40.795053,30.744700
+Şanlıurfa,63,Hilvan,1393,"Hilvan, Şanlıurfa",37.547514,38.945900
+Erzurum,25,Hınıs,1392,"Hınıs, Erzurum",39.359643,41.709400
+Kütahya,43,Hisarcık,1802,"Hisarcık, Kütahya",39.246528,29.235900
+Bitlis,13,Hizan,1394,"Hizan, Bitlis",38.186430,42.527200
+Afyonkarahisar,3,Hocalar,1944,"Hocalar, Afyonkarahisar",38.576673,29.969700
+Denizli,20,Honaz,1803,"Honaz, Denizli",37.756960,29.264300
+Artvin,8,Hopa,1395,"Hopa, Artvin",41.394618,41.419800
+Erzurum,25,Horasan,1396,"Horasan, Erzurum",40.040049,42.168900
+Tunceli,62,Hozat,1397,"Hozat, Tunceli",39.108025,39.218700
+Konya,42,Hüyük,1804,"Hüyük, Konya",37.910851,31.582700
+Antalya,7,İbradı,1946,"İbradı, Antalya",37.168457,31.491300
+Şırnak,73,İdil,1403,"İdil, Şırnak",37.320116,41.794000
+Iğdır,76,Iğdır Merkez,1398,"Iğdır Merkez, Iğdır",39.920060,44.043600
+Kastamonu,37,İhsangazi,1805,"İhsangazi, Kastamonu",41.131603,33.559900
+Afyonkarahisar,3,İhsaniye,1404,"İhsaniye, Afyonkarahisar",39.031881,30.416800
+Ordu,52,İkizce,1947,"İkizce, Ordu",41.059805,37.080100
+Rize,53,İkizdere,1405,"İkizdere, Rize",40.775235,40.562000
+Çankırı,18,Ilgaz,1399,"Ilgaz, Çankırı",40.925238,33.627200
+Konya,42,Ilgın,1400,"Ilgın, Konya",38.281724,31.914000
+Erzincan,24,İliç,1406,"İliç, Erzincan",39.456484,38.564700
+Samsun,55,İlkadım,2074,"İlkadım, Samsun",41.279703,36.336100
+Adana,1,İmamoğlu,1806,"İmamoğlu, Adana",37.298444,35.609500
+Sivas,58,İmranlı,1407,"İmranlı, Sivas",39.875358,38.112500
+Kayseri,38,İncesu,1409,"İncesu, Kayseri",38.609227,35.258800
+Aydın,9,İncirliova,1807,"İncirliova, Aydın",37.853785,27.723400
+Kastamonu,37,İnebolu,1410,"İnebolu, Kastamonu",41.977250,33.759400
+Bursa,16,İnegöl,1411,"İnegöl, Bursa",40.080082,29.509700
+Bilecik,11,İnhisar,1948,"İnhisar, Bilecik",40.049106,30.385600
+Eskişehir,26,İnönü,1808,"İnönü, Eskişehir",39.755620,30.135800
+Van,65,İpekyolu,2098,"İpekyolu, Van",38.500058,43.380100
+Edirne,22,İpsala,1412,"İpsala, Edirne",40.929232,26.393900
+Afyonkarahisar,3,İscehisar,1809,"İscehisar, Afyonkarahisar",38.861286,30.749200
+Hatay,31,İskenderun,1413,"İskenderun, Hatay",36.584673,36.175600
+Çorum,19,İskilip,1414,"İskilip, Çorum",40.730648,34.471000
+Gaziantep,27,İslahiye,1415,"İslahiye, Gaziantep",37.025344,36.631100
+Isparta,32,Isparta Merkez,1401,"Isparta Merkez, Isparta",37.762649,30.553700
+Erzurum,25,İspir,1416,"İspir, Erzurum",40.484277,41.000400
+Balıkesir,10,İvrindi,1418,"İvrindi, Balıkesir",39.582007,27.485400
+Rize,53,İyidere,1949,"İyidere, Rize",41.012176,40.360600
+Kocaeli,41,İzmit,2062,"İzmit, Kocaeli",40.765441,29.940800
+Bursa,16,İznik,1420,"İznik, Bursa",40.429524,29.719700
+Ordu,52,Kabadüz,1950,"Kabadüz, Ordu",40.679656,37.957400
+Ordu,52,Kabataş,1951,"Kabataş, Ordu",40.750665,37.448400
+İstanbul,34,Kadıköy,1421,"Kadıköy, İstanbul",40.981874,29.057600
+Konya,42,Kadınhanı,1422,"Kadınhanı, Konya",38.240871,32.207900
+Osmaniye,80,Kadirli,1423,"Kadirli, Osmaniye",37.374022,36.097400
+Yozgat,66,Kadışehri,1952,"Kadışehri, Yozgat",39.997209,35.791600
+İstanbul,34,Kağıthane,1810,"Kağıthane, İstanbul",41.081403,28.982000
+Kars,36,Kağızman,1424,"Kağızman, Kars",40.140648,43.119100
+Kahramanmaraş,46,Kahramanmaraş Merkez,1515,"Kahramanmaraş Merkez, Kahramanmaraş",37.575276,36.922800
+Adıyaman,2,Kahta,1425,"Kahta, Adıyaman",37.786899,38.619000
+Denizli,20,Kale / Denizli,1426,"Kale / Denizli, Denizli",37.372921,28.813100
+Malatya,44,Kale / Malatya,1953,"Kale / Malatya, Malatya",38.346451,38.760500
+Ankara,6,Kalecik,1427,"Kalecik, Ankara",40.106531,33.411400
+Rize,53,Kalkandere,1428,"Kalkandere, Rize",40.928809,40.442400
+Kırşehir,40,Kaman,1429,"Kaman, Kırşehir",39.358937,33.723400
+Kocaeli,41,Kandıra,1430,"Kandıra, Kocaeli",41.070363,30.152400
+Sivas,58,Kangal,1431,"Kangal, Sivas",39.144902,37.346000
+Tekirdağ,59,Kapaklı,2095,"Kapaklı, Tekirdağ",41.339044,27.901500
+İzmir,35,Karabağlar,2057,"Karabağlar, İzmir",38.346551,27.044100
+Karabük,78,Karabük Merkez,1433,"Karabük Merkez, Karabük",41.121754,32.591300
+İzmir,35,Karaburun,1432,"Karaburun, İzmir",38.638251,26.512700
+Bursa,16,Karacabey,1434,"Karacabey, Bursa",40.216037,28.359000
+Aydın,9,Karacasu,1435,"Karacasu, Aydın",37.729068,28.607200
+Erzurum,25,Karaçoban,1812,"Karaçoban, Erzurum",39.350684,42.112700
+Uşak,64,Karahallı,1436,"Karahallı, Uşak",38.319945,29.531500
+Adana,1,Karaisalı,1437,"Karaisalı, Adana",37.275883,35.126900
+Kırıkkale,71,Karakeçili,1954,"Karakeçili, Kırıkkale",39.593118,33.378200
+Elazığ,23,Karakoçan,1438,"Karakoçan, Elazığ",38.955780,40.035900
+Şanlıurfa,63,Karaköprü,2093,"Karaköprü, Şanlıurfa",37.280806,38.694900
+Iğdır,76,Karakoyunlu,2011,"Karakoyunlu, Iğdır",39.970705,44.174400
+Karaman,70,Karaman Merkez,1439,"Karaman Merkez, Karaman",37.181009,33.222200
+Burdur,15,Karamanlı,1813,"Karamanlı, Burdur",37.372924,29.823900
+Kocaeli,41,Karamürsel,1440,"Karamürsel, Kocaeli",40.691274,29.616400
+Konya,42,Karapınar,1441,"Karapınar, Konya",37.715320,33.546600
+Sakarya,54,Karapürçek,1955,"Karapürçek, Sakarya",40.618463,30.504900
+Sakarya,54,Karasu,1442,"Karasu, Sakarya",41.095615,30.692400
+Adana,1,Karataş,1443,"Karataş, Adana",36.664978,35.258800
+Konya,42,Karatay,1814,"Karatay, Konya",37.823211,32.988800
+Erzurum,25,Karayazı,1444,"Karayazı, Erzurum",39.702760,42.145600
+Balıkesir,10,Karesi,2078,"Karesi, Balıkesir",39.784839,27.878000
+Çorum,19,Kargı,1445,"Kargı, Çorum",41.134530,34.487200
+Gaziantep,27,Karkamış,1956,"Karkamış, Gaziantep",36.860633,37.914900
+Bingöl,12,Karlıova,1446,"Karlıova, Bingöl",39.297996,41.014400
+Aydın,9,Karpuzlu,1957,"Karpuzlu, Aydın",37.563495,27.854600
+Kars,36,Kars Merkez,1447,"Kars Merkez, Kars",40.601338,43.097500
+İzmir,35,Karşıyaka,1448,"Karşıyaka, İzmir",38.518400,27.138200
+İstanbul,34,Kartal,1449,"Kartal, İstanbul",40.918400,29.220500
+Kocaeli,41,Kartepe,2063,"Kartepe, Kocaeli",40.753369,30.023200
+Antalya,7,Kaş,1451,"Kaş, Antalya",36.199913,29.639600
+Kastamonu,37,Kastamonu Merkez,1450,"Kastamonu Merkez, Kastamonu",41.376625,33.776500
+Samsun,55,Kavak,1452,"Kavak, Samsun",41.126877,35.974600
+Muğla,48,Kavaklıdere,1958,"Kavaklıdere, Muğla",37.445382,28.366100
+Diyarbakır,21,Kayapınar,2041,"Kayapınar, Diyarbakır",37.956251,39.924200
+Sakarya,54,Kaynarca,1453,"Kaynarca, Sakarya",41.033300,30.307700
+Düzce,81,Kaynaşlı,2031,"Kaynaşlı, Düzce",40.776033,31.303900
+Ankara,6,Kazan,1815,"Kazan, Ankara",40.205167,32.681200
+Karaman,70,Kazımkarabekir,1862,"Kazımkarabekir, Karaman",37.227317,32.959000
+Elazığ,23,Keban,1455,"Keban, Elazığ",38.781738,38.779000
+Isparta,32,Keçiborlu,1456,"Keçiborlu, Isparta",37.943058,30.301400
+Ankara,6,Keçiören,1745,"Keçiören, Ankara",40.021062,32.831000
+Bursa,16,Keles,1457,"Keles, Bursa",39.912886,29.235900
+Gümüşhane,29,Kelkit,1458,"Kelkit, Gümüşhane",40.128748,39.432300
+Erzincan,24,Kemah,1459,"Kemah, Erzincan",39.687292,39.061100
+Erzincan,24,Kemaliye,1460,"Kemaliye, Erzincan",39.262041,38.496900
+Artvin,8,Kemalpaşa / Artvin,2105,"Kemalpaşa / Artvin, Artvin",41.481275,41.529000
+İzmir,35,Kemalpaşa / İzmir,1461,"Kemalpaşa / İzmir, İzmir",38.427500,27.418800
+Antalya,7,Kemer / Antalya,1959,"Kemer / Antalya, Antalya",36.602792,30.559800
+Burdur,15,Kemer / Burdur,1816,"Kemer / Burdur, Burdur",37.353319,30.061200
+Antalya,7,Kepez,2037,"Kepez, Antalya",36.993478,30.689000
+Balıkesir,10,Kepsut,1462,"Kepsut, Balıkesir",39.690400,28.152400
+Edirne,22,Keşan,1464,"Keşan, Edirne",40.801430,26.561000
+Giresun,28,Keşap,1465,"Keşap, Giresun",40.915626,38.513000
+Kırıkkale,71,Keskin,1463,"Keskin, Kırıkkale",39.671834,33.610800
+Bursa,16,Kestel,1960,"Kestel, Bursa",40.165436,29.278600
+Bolu,14,Kıbrıscık,1466,"Kıbrıscık, Bolu",40.451495,31.865500
+Bingöl,12,Kiğı,1475,"Kiğı, Bingöl",39.310059,40.349000
+Zonguldak,67,Kilimli,2100,"Kilimli, Zonguldak",41.488171,31.867000
+Kilis,79,Kilis Merkez,1476,"Kilis Merkez, Kilis",36.716477,37.114700
+İzmir,35,Kınık,1467,"Kınık, İzmir",39.085900,27.381800
+İzmir,35,Kiraz,1477,"Kiraz, İzmir",38.199483,28.346200
+Hatay,31,Kırıkhan,1468,"Kırıkhan, Hatay",36.496730,36.360700
+Kırıkkale,71,Kırıkkale Merkez,1469,"Kırıkkale Merkez, Kırıkkale",39.839784,33.508900
+Manisa,45,Kırkağaç,1470,"Kırkağaç, Manisa",39.105359,27.673300
+Kırklareli,39,Kırklareli Merkez,1471,"Kırklareli Merkez, Kırklareli",41.735472,27.224400
+Kırşehir,40,Kırşehir Merkez,1472,"Kırşehir Merkez, Kırşehir",39.146078,34.159500
+Ankara,6,Kızılcahamam,1473,"Kızılcahamam, Ankara",40.470348,32.650200
+Çankırı,18,Kızılırmak,1817,"Kızılırmak, Çankırı",40.375947,33.962500
+Afyonkarahisar,3,Kızılören,1961,"Kızılören, Afyonkarahisar",38.260051,30.182000
+Mardin,47,Kızıltepe,1474,"Kızıltepe, Mardin",37.193111,40.587000
+Sakarya,54,Kocaali,1818,"Kocaali, Sakarya",41.055500,30.850900
+Kocaeli,41,Kocaeli Merkez,1478,"Kocaeli Merkez, Kocaeli",40.756942,29.979500
+Diyarbakır,21,Kocaköy,1962,"Kocaköy, Diyarbakır",38.291819,40.505500
+Aydın,9,Koçarlı,1479,"Koçarlı, Aydın",37.762029,27.704500
+Kayseri,38,Kocasinan,1863,"Kocasinan, Kayseri",38.720489,35.482600
+Kırklareli,39,Kofçaz,1480,"Kofçaz, Kırklareli",42.006625,27.116400
+İzmir,35,Konak,1819,"Konak, İzmir",38.414480,27.144100
+Antalya,7,Konyaaltı,2038,"Konyaaltı, Antalya",36.896891,30.713300
+Manisa,45,Köprübaşı / Manisa,1965,"Köprübaşı / Manisa, Manisa",38.755155,28.369600
+Trabzon,61,Köprübaşı / Trabzon,1966,"Köprübaşı / Trabzon, Trabzon",40.790482,40.135100
+Erzurum,25,Köprüköy,1967,"Köprüköy, Erzurum",39.973599,41.873100
+Kocaeli,41,Körfez,1821,"Körfez, Kocaeli",40.776382,29.737700
+Ordu,52,Korgan,1482,"Korgan, Ordu",40.828582,37.344600
+Çankırı,18,Korgun,1963,"Korgun, Çankırı",40.735881,33.518200
+Muş,49,Korkut,1964,"Korkut, Muş",38.793946,41.926800
+Antalya,7,Korkuteli,1483,"Korkuteli, Antalya",37.097811,30.251300
+Gümüşhane,29,Köse,1822,"Köse, Gümüşhane",40.224816,39.738500
+Aydın,9,Köşk,1968,"Köşk, Aydın",37.853694,28.052100
+Elazığ,23,Kovancılar,1820,"Kovancılar, Elazığ",38.717915,39.866600
+Muğla,48,Köyceğiz,1488,"Köyceğiz, Muğla",36.966034,28.688600
+Sivas,58,Koyulhisar,1484,"Koyulhisar, Sivas",40.301538,37.832200
+Nevşehir,50,Kozaklı,1485,"Kozaklı, Nevşehir",39.214645,34.852500
+Adana,1,Kozan,1486,"Kozan, Adana",37.452122,35.819300
+Zonguldak,67,Kozlu,2101,"Kozlu, Zonguldak",41.438850,31.754000
+Batman,72,Kozluk,1487,"Kozluk, Batman",38.189291,41.490500
+İstanbul,34,Küçükçekmece,1823,"Küçükçekmece, İstanbul",41.021238,28.778100
+Manisa,45,Kula,1489,"Kula, Manisa",38.543234,28.644600
+Diyarbakır,21,Kulp,1490,"Kulp, Diyarbakır",38.500119,41.009900
+Konya,42,Kulu,1491,"Kulu, Konya",39.090245,33.080500
+Malatya,44,Kuluncak,1969,"Kuluncak, Malatya",38.850153,37.639200
+Hatay,31,Kumlu,1970,"Kumlu, Hatay",36.389612,36.544600
+Antalya,7,Kumluca,1492,"Kumluca, Antalya",36.366948,30.285800
+Ordu,52,Kumru,1493,"Kumru, Ordu",40.872773,37.261500
+Kastamonu,37,Küre,1499,"Küre, Kastamonu",41.805978,33.710300
+Çankırı,18,Kurşunlu,1494,"Kurşunlu, Çankırı",40.841299,33.260700
+Siirt,56,Kurtalan,1495,"Kurtalan, Siirt",37.922588,41.591100
+Gümüşhane,29,Kürtün,1971,"Kürtün, Gümüşhane",40.701992,39.085400
+Bartın,74,Kurucaşile,1496,"Kurucaşile, Bartın",41.843903,32.720700
+Aydın,9,Kuşadası,1497,"Kuşadası, Aydın",37.857913,27.261000
+Kütahya,43,Kütahya Merkez,1500,"Kütahya Merkez, Kütahya",39.419955,29.985700
+Aydın,9,Kuyucak,1498,"Kuyucak, Aydın",37.913861,28.459800
+Çorum,19,Laçin,1972,"Laçin, Çorum",40.791875,34.907500
+Samsun,55,Ladik,1501,"Ladik, Samsun",40.912047,35.894800
+Edirne,22,Lalapaşa,1502,"Lalapaşa, Edirne",41.876717,26.745300
+Çanakkale,17,Lapseki,1503,"Lapseki, Çanakkale",40.345477,26.684300
+Diyarbakır,21,Lice,1504,"Lice, Diyarbakır",38.424951,40.670400
+Kırklareli,39,Lüleburgaz,1505,"Lüleburgaz, Kırklareli",41.402742,27.365600
+Trabzon,61,Maçka,1507,"Maçka, Trabzon",40.814221,39.610700
+Elazığ,23,Maden,1506,"Maden, Elazığ",38.444397,39.627100
+Eskişehir,26,Mahmudiye,1508,"Mahmudiye, Eskişehir",39.494370,30.986400
+Malatya,44,Malatya Merkez,1509,"Malatya Merkez, Malatya",38.355363,38.333500
+Muş,49,Malazgirt,1510,"Malazgirt, Muş",39.146145,42.541000
+Tekirdağ,59,Malkara,1511,"Malkara, Tekirdağ",40.893756,26.903900
+İstanbul,34,Maltepe,2012,"Maltepe, İstanbul",40.949802,29.174000
+Ankara,6,Mamak,1746,"Mamak, Ankara",39.912406,33.056400
+Antalya,7,Manavgat,1512,"Manavgat, Antalya",36.786869,31.441300
+Manisa,45,Manisa Merkez,1513,"Manisa Merkez, Manisa",38.614034,27.429600
+Balıkesir,10,Manyas,1514,"Manyas, Balıkesir",40.047409,27.969500
+Mardin,47,Mardin Merkez,1516,"Mardin Merkez, Mardin",37.312903,40.734000
+Balıkesir,10,Marmara,1824,"Marmara, Balıkesir",40.627782,27.620000
+Tekirdağ,59,Marmaraereğlisi,1825,"Marmaraereğlisi, Tekirdağ",40.969332,27.954800
+Muğla,48,Marmaris,1517,"Marmaris, Muğla",36.854936,28.270900
+Tunceli,62,Mazgirt,1518,"Mazgirt, Tunceli",39.018544,39.605100
+Mardin,47,Mazıdağı,1519,"Mazıdağı, Mardin",37.487210,40.448500
+Çorum,19,Mecitözü,1520,"Mecitözü, Çorum",40.495920,35.267400
+Kayseri,38,Melikgazi,1864,"Melikgazi, Kayseri",38.720489,35.482600
+İzmir,35,Menderes,1826,"Menderes, İzmir",38.120409,27.126500
+İzmir,35,Menemen,1521,"Menemen, İzmir",38.626644,27.055900
+Bolu,14,Mengen,1522,"Mengen, Bolu",40.939139,32.073900
+Muğla,48,Menteşe,2089,"Menteşe, Muğla",37.235198,28.439700
+Konya,42,Meram,1827,"Meram, Konya",37.743023,32.265400
+Edirne,22,Meriç,1523,"Meriç, Edirne",41.200884,26.466600
+Denizli,20,Merkezefendi,2079,"Merkezefendi, Denizli",37.783016,29.096300
+Mersin,33,Mersin Merkez,1402,"Mersin Merkez, Mersin",36.747536,34.518200
+Amasya,5,Merzifon,1524,"Merzifon, Amasya",40.874770,35.461800
+Ordu,52,Mesudiye,1525,"Mesudiye, Ordu",40.463307,37.773600
+Mersin,33,Mezitli,2065,"Mezitli, Mersin",36.857369,34.397600
+Mardin,47,Midyat,1526,"Midyat, Mardin",37.415148,41.373400
+Eskişehir,26,Mihalgazi,1973,"Mihalgazi, Eskişehir",40.026226,30.577100
+Eskişehir,26,Mihalıççık,1527,"Mihalıççık, Eskişehir",39.865969,31.495300
+Muğla,48,Milas,1528,"Milas, Muğla",37.311638,27.780800
+Kırşehir,40,Mucur,1529,"Mucur, Kırşehir",39.063535,34.373900
+Bursa,16,Mudanya,1530,"Mudanya, Bursa",40.318009,28.789800
+Bolu,14,Mudurnu,1531,"Mudurnu, Bolu",40.462581,31.211900
+Muğla,48,Muğla Merkez,1532,"Muğla Merkez, Muğla",37.235198,28.439700
+Van,65,Muradiye,1533,"Muradiye, Van",38.994542,43.767300
+Tekirdağ,59,Muratlı,1538,"Muratlı, Tekirdağ",41.172620,27.496300
+Antalya,7,Muratpaşa,2039,"Muratpaşa, Antalya",36.882759,30.769500
+Artvin,8,Murgul,1828,"Murgul, Artvin",41.278487,41.562300
+Muş,49,Muş Merkez,1534,"Muş Merkez, Muş",38.734561,41.491000
+Kilis,79,Musabeyli,2024,"Musabeyli, Kilis",36.885897,36.915900
+Bursa,16,Mustafakemalpaşa,1535,"Mustafakemalpaşa, Bursa",40.039441,28.405200
+Mersin,33,Mut,1536,"Mut, Mersin",36.794162,33.348600
+Bitlis,13,Mutki,1537,"Mutki, Bitlis",38.408588,41.922300
+Ankara,6,Nallıhan,1539,"Nallıhan, Ankara",40.188868,31.350600
+İzmir,35,Narlıdere,2013,"Narlıdere, İzmir",38.377794,26.997000
+Erzurum,25,Narman,1540,"Narman, Erzurum",40.343686,41.870200
+Aydın,9,Nazilli,1542,"Nazilli, Aydın",37.909777,28.324300
+Tunceli,62,Nazımiye,1541,"Nazımiye, Tunceli",39.181163,39.828500
+Nevşehir,50,Nevşehir Merkez,1543,"Nevşehir Merkez, Nevşehir",38.624694,34.714200
+Niğde,51,Niğde Merkez,1544,"Niğde Merkez, Niğde",37.969774,34.676600
+Tokat,60,Niksar,1545,"Niksar, Tokat",40.590159,36.951200
+Bursa,16,Nilüfer,1829,"Nilüfer, Bursa",40.142458,28.813100
+Gaziantep,27,Nizip,1546,"Nizip, Gaziantep",37.009926,37.796900
+Gaziantep,27,Nurdağı,1974,"Nurdağı, Gaziantep",37.175988,36.740600
+Kahramanmaraş,46,Nurhak,1975,"Nurhak, Kahramanmaraş",37.965633,37.447400
+Mardin,47,Nusaybin,1547,"Nusaybin, Mardin",37.069644,41.214000
+İzmir,35,Ödemiş,1563,"Ödemiş, İzmir",38.228296,27.974800
+Eskişehir,26,Odunpazarı,2046,"Odunpazarı, Eskişehir",39.766706,30.525600
+Trabzon,61,Of,1548,"Of, Trabzon",40.925464,40.289700
+Gaziantep,27,Oğuzeli,1549,"Oğuzeli, Gaziantep",36.965343,37.510700
+Çorum,19,Oğuzlar,1976,"Oğuzlar, Çorum",40.754290,34.704800
+Erzurum,25,Oltu,1550,"Oltu, Erzurum",40.545963,41.995600
+Erzurum,25,Olur,1551,"Olur, Erzurum",40.880610,42.116500
+Mardin,47,Ömerli,1564,"Ömerli, Mardin",37.363112,41.008700
+Kahramanmaraş,46,Onikişubat,2085,"Onikişubat, Kahramanmaraş",37.770229,36.695700
+Ordu,52,Ordu Merkez,1552,"Ordu Merkez, Ordu",40.986166,37.879700
+Bursa,16,Orhaneli,1553,"Orhaneli, Bursa",39.940979,28.999400
+Bursa,16,Orhangazi,1554,"Orhangazi, Bursa",40.439227,29.371500
+Çankırı,18,Orta,1555,"Orta, Çankırı",40.591975,33.073400
+Muğla,48,Ortaca,1831,"Ortaca, Muğla",36.838723,28.765500
+Trabzon,61,Ortahisar,2097,"Ortahisar, Trabzon",40.956216,39.735000
+Aksaray,68,Ortaköy / Aksaray,1557,"Ortaköy / Aksaray, Aksaray",38.736600,34.040800
+Çorum,19,Ortaköy / Çorum,1556,"Ortaköy / Çorum, Çorum",40.291170,35.312600
+Çorum,19,Osmancık,1558,"Osmancık, Çorum",40.968958,34.800100
+Bilecik,11,Osmaneli,1559,"Osmaneli, Bilecik",40.358400,30.013400
+Bursa,16,Osmangazi,1832,"Osmangazi, Bursa",40.179431,29.022700
+Osmaniye,80,Osmaniye Merkez,1560,"Osmaniye Merkez, Osmaniye",37.074628,36.246400
+Erzincan,24,Otlukbeli,1977,"Otlukbeli, Erzincan",39.973600,40.022100
+Karabük,78,Ovacık / Karabük,1561,"Ovacık / Karabük, Karabük",41.073276,32.917500
+Tunceli,62,Ovacık / Tunceli,1562,"Ovacık / Tunceli, Tunceli",39.357044,39.216600
+Van,65,Özalp,1565,"Özalp, Van",38.724909,44.030800
+Kayseri,38,Özvatan,1978,"Özvatan, Kayseri",39.106381,35.699100
+Erzurum,25,Palandöken,2044,"Palandöken, Erzurum",39.905499,41.265800
+Elazığ,23,Palu,1566,"Palu, Elazığ",38.663950,40.002600
+Denizli,20,Pamukkale,1871,"Pamukkale, Denizli",37.913696,29.118700
+Sakarya,54,Pamukova,1833,"Pamukova, Sakarya",40.505684,30.169200
+Erzurum,25,Pasinler,1567,"Pasinler, Erzurum",39.977182,41.668100
+Ağrı,4,Patnos,1568,"Patnos, Ağrı",39.233578,42.863300
+Hatay,31,Payas,2083,"Payas, Hatay",36.779595,36.213600
+Rize,53,Pazar / Rize,1569,"Pazar / Rize, Rize",41.180662,40.886800
+Tokat,60,Pazar / Tokat,1834,"Pazar / Tokat, Tokat",40.277255,36.284700
+Kahramanmaraş,46,Pazarcık,1570,"Pazarcık, Kahramanmaraş",37.489462,37.293600
+Kütahya,43,Pazarlar,1979,"Pazarlar, Kütahya",38.995200,29.123900
+Bilecik,11,Pazaryeri,1571,"Pazaryeri, Bilecik",39.995528,29.903400
+Erzurum,25,Pazaryolu,1865,"Pazaryolu, Erzurum",40.445626,40.718300
+Kırklareli,39,Pehlivanköy,1572,"Pehlivanköy, Kırklareli",41.347111,26.924400
+İstanbul,34,Pendik,1835,"Pendik, İstanbul",40.880945,29.257700
+Ordu,52,Perşembe,1573,"Perşembe, Ordu",41.067089,37.773500
+Tunceli,62,Pertek,1574,"Pertek, Tunceli",38.867770,39.324600
+Siirt,56,Pervari,1575,"Pervari, Siirt",37.880223,42.623600
+Kastamonu,37,Pınarbaşı / Kastamonu,1836,"Pınarbaşı / Kastamonu, Kastamonu",41.666145,33.035000
+Kayseri,38,Pınarbaşı / Kayseri,1576,"Pınarbaşı / Kayseri, Kayseri",38.720513,36.395000
+Kırklareli,39,Pınarhisar,1577,"Pınarhisar, Kırklareli",41.601840,27.533200
+Giresun,28,Piraziz,1837,"Piraziz, Giresun",40.954562,38.119600
+Kilis,79,Polateli,2025,"Polateli, Kilis",36.842174,37.143600
+Ankara,6,Polatlı,1578,"Polatlı, Ankara",39.585047,32.144700
+Ardahan,75,Posof,1579,"Posof, Ardahan",41.533645,42.675700
+Adana,1,Pozantı,1580,"Pozantı, Adana",37.425584,34.873600
+Tunceli,62,Pülümür,1581,"Pülümür, Tunceli",39.486504,39.895400
+Ankara,6,Pursaklar,2034,"Pursaklar, Ankara",40.038463,32.903400
+Malatya,44,Pütürge,1582,"Pütürge, Malatya",38.153111,38.788000
+Erzincan,24,Refahiye,1583,"Refahiye, Erzincan",39.899583,38.768100
+Tokat,60,Reşadiye,1584,"Reşadiye, Tokat",40.392406,37.336000
+Hatay,31,Reyhanlı,1585,"Reyhanlı, Hatay",36.268523,36.567600
+Rize,53,Rize Merkez,1586,"Rize Merkez, Rize",41.025511,40.517700
+Çankırı,18,Şabanözü,1649,"Şabanözü, Çankırı",40.451308,33.277800
+Karabük,78,Safranbolu,1587,"Safranbolu, Karabük",41.249306,32.683100
+Gaziantep,27,Şahinbey,1841,"Şahinbey, Gaziantep",37.065953,37.378100
+Adana,1,Saimbeyli,1588,"Saimbeyli, Adana",37.986090,36.089600
+Sakarya,54,Sakarya Merkez,1589,"Sakarya Merkez, Sakarya",40.745669,30.413500
+Manisa,45,Salihli,1590,"Salihli, Manisa",38.487074,28.138100
+Samsun,55,Salıpazarı,1838,"Salıpazarı, Samsun",41.082290,36.825300
+Trabzon,61,Şalpazarı,1842,"Şalpazarı, Trabzon",40.941959,39.193000
+Hatay,31,Samandağ,1591,"Samandağ, Hatay",36.086992,35.968500
+Adıyaman,2,Samsat,1592,"Samsat, Adıyaman",37.579209,38.482400
+Samsun,55,Samsun Merkez,1593,"Samsun Merkez, Samsun",41.281880,36.345400
+İstanbul,34,Sancaktepe,2054,"Sancaktepe, İstanbul",41.028703,29.290200
+Afyonkarahisar,3,Sandıklı,1594,"Sandıklı, Afyonkarahisar",38.465179,30.272600
+Şanlıurfa,63,Şanlıurfa Merkez,1702,"Şanlıurfa Merkez, Şanlıurfa",37.167404,38.795500
+Sakarya,54,Sapanca,1595,"Sapanca, Sakarya",40.689680,30.261400
+Kütahya,43,Şaphane,1843,"Şaphane, Kütahya",39.024910,29.220100
+Tekirdağ,59,Saray / Tekirdağ,1596,"Saray / Tekirdağ, Tekirdağ",41.441086,27.921600
+Van,65,Saray / Van,1980,"Saray / Van, Van",38.490927,44.196700
+Sinop,57,Saraydüzü,1981,"Saraydüzü, Sinop",41.328148,34.847200
+Yozgat,66,Saraykent,1982,"Saraykent, Yozgat",39.692795,35.510000
+Denizli,20,Sarayköy,1597,"Sarayköy, Denizli",37.921115,28.883000
+Konya,42,Sarayönü,1598,"Sarayönü, Konya",38.264661,32.407100
+Eskişehir,26,Sarıcakaya,1599,"Sarıcakaya, Eskişehir",40.037399,30.617600
+Adana,1,Sarıçam,2032,"Sarıçam, Adana",37.103444,35.522000
+Manisa,45,Sarıgöl,1600,"Sarıgöl, Manisa",38.238351,28.696400
+Kars,36,Sarıkamış,1601,"Sarıkamış, Kars",40.333401,42.590500
+Yozgat,66,Sarıkaya,1602,"Sarıkaya, Yozgat",39.514695,35.400500
+Kayseri,38,Sarıoğlan,1603,"Sarıoğlan, Kayseri",39.077818,35.967000
+Karaman,70,Sarıveliler,1983,"Sarıveliler, Karaman",36.608577,32.582500
+Aksaray,68,Sarıyahşi,1866,"Sarıyahşi, Aksaray",38.984910,33.844500
+İstanbul,34,Sarıyer,1604,"Sarıyer, İstanbul",41.181474,29.038500
+Kayseri,38,Sarız,1605,"Sarız, Kayseri",38.480572,36.497800
+Isparta,32,Şarkikaraağaç,1651,"Şarkikaraağaç, Isparta",38.016946,31.354200
+Sivas,58,Şarkışla,1650,"Şarkışla, Sivas",39.350195,36.407800
+Tekirdağ,59,Şarköy,1652,"Şarköy, Tekirdağ",40.615159,27.113600
+Manisa,45,Saruhanlı,1606,"Saruhanlı, Manisa",38.734982,27.569800
+Batman,72,Sason,1607,"Sason, Batman",38.333766,41.420300
+Balıkesir,10,Savaştepe,1608,"Savaştepe, Balıkesir",39.451312,27.690400
+Artvin,8,Şavşat,1653,"Şavşat, Artvin",41.252757,42.354700
+Mardin,47,Savur,1609,"Savur, Mardin",37.533928,40.887100
+Bolu,14,Seben,1610,"Seben, Bolu",40.411159,31.569900
+Giresun,28,Şebinkarahisar,1654,"Şebinkarahisar, Giresun",40.288496,38.422200
+Yozgat,66,Şefaatli,1655,"Şefaatli, Yozgat",39.500486,34.758200
+İzmir,35,Seferihisar,1611,"Seferihisar, İzmir",38.195150,26.834400
+Gaziantep,27,Şehitkamil,1844,"Şehitkamil, Gaziantep",37.065953,37.378100
+Manisa,45,Şehzadeler,2086,"Şehzadeler, Manisa",38.614034,27.429600
+İzmir,35,Selçuk,1612,"Selçuk, İzmir",37.950845,27.370000
+Konya,42,Selçuklu,1839,"Selçuklu, Konya",38.016038,32.492000
+Manisa,45,Selendi,1613,"Selendi, Manisa",38.743988,28.867400
+Kars,36,Selim,1614,"Selim, Kars",40.464118,42.790600
+Hakkari,30,Şemdinli,1656,"Şemdinli, Hakkari",37.302605,44.530900
+Isparta,32,Senirkent,1615,"Senirkent, Isparta",38.107941,30.550200
+Erzurum,25,Şenkaya,1657,"Şenkaya, Erzurum",40.561599,42.347100
+Kastamonu,37,Şenpazar,1845,"Şenpazar, Kastamonu",41.809741,33.231400
+Sakarya,54,Serdivan,2071,"Serdivan, Sakarya",40.782802,30.320500
+Ankara,6,Şereflikoçhisar,1658,"Şereflikoçhisar, Ankara",38.937890,33.539200
+Antalya,7,Serik,1616,"Serik, Antalya",36.917399,31.104400
+Denizli,20,Serinhisar,1840,"Serinhisar, Denizli",37.613453,29.301800
+Muğla,48,Seydikemer,2090,"Seydikemer, Muğla",36.647391,29.464400
+Kastamonu,37,Seydiler,1984,"Seydiler, Kastamonu",41.619953,33.718500
+Konya,42,Seydişehir,1617,"Seydişehir, Konya",37.419260,31.848200
+Adana,1,Seyhan,1104,"Seyhan, Adana",36.991419,35.330800
+Eskişehir,26,Seyitgazi,1618,"Seyitgazi, Eskişehir",39.445619,30.693900
+Siirt,56,Siirt Merkez,1620,"Siirt Merkez, Siirt",37.927404,41.942000
+İstanbul,34,Şile,1659,"Şile, İstanbul",41.174903,29.609600
+Mersin,33,Silifke,1621,"Silifke, Mersin",36.623027,33.885800
+İstanbul,34,Silivri,1622,"Silivri, İstanbul",41.073678,28.247900
+Şırnak,73,Silopi,1623,"Silopi, Şırnak",37.305543,42.498300
+Diyarbakır,21,Silvan,1624,"Silvan, Diyarbakır",38.141225,41.012800
+Kütahya,43,Simav,1625,"Simav, Kütahya",39.089600,28.978700
+Afyonkarahisar,3,Sinanpaşa,1626,"Sinanpaşa, Afyonkarahisar",38.742188,30.244800
+Ankara,6,Sincan,1747,"Sincan, Ankara",39.854448,32.424100
+Adıyaman,2,Sincik,1985,"Sincik, Adıyaman",38.058742,38.563400
+Balıkesir,10,Sındırgı,1619,"Sındırgı, Balıkesir",39.238849,28.175000
+Sinop,57,Sinop Merkez,1627,"Sinop Merkez, Sinop",42.027974,35.151700
+Gümüşhane,29,Şiran,1660,"Şiran, Gümüşhane",40.189364,39.127800
+Şırnak,73,Şırnak Merkez,1661,"Şırnak Merkez, Şırnak",37.518974,42.453700
+Siirt,56,Şirvan,1662,"Şirvan, Siirt",38.096772,42.134400
+İstanbul,34,Şişli,1663,"Şişli, İstanbul",41.060069,28.988100
+Sivas,58,Sivas Merkez,1628,"Sivas Merkez, Sivas",39.750545,37.015000
+Uşak,64,Sivaslı,1629,"Sivaslı, Uşak",38.499903,29.683900
+Şanlıurfa,63,Siverek,1630,"Siverek, Şanlıurfa",37.754104,39.317700
+Elazığ,23,Sivrice,1631,"Sivrice, Elazığ",38.447041,39.309300
+Eskişehir,26,Sivrihisar,1632,"Sivrihisar, Eskişehir",39.475953,31.537000
+Bilecik,11,Söğüt,1636,"Söğüt, Bilecik",40.015100,30.183400
+Sakarya,54,Söğütlü,1986,"Söğütlü, Sakarya",40.903400,30.471700
+Aydın,9,Söke,1637,"Söke, Aydın",37.751961,27.405700
+Bingöl,12,Solhan,1633,"Solhan, Bingöl",38.967912,41.053800
+Manisa,45,Soma,1634,"Soma, Manisa",39.185113,27.608800
+Yozgat,66,Sorgun,1635,"Sorgun, Yozgat",39.812821,35.190400
+Afyonkarahisar,3,Şuhut,1664,"Şuhut, Afyonkarahisar",38.532897,30.544400
+Kırıkkale,71,Sulakyurt,1638,"Sulakyurt, Kırıkkale",40.221667,33.752700
+Tekirdağ,59,Süleymanpaşa,2096,"Süleymanpaşa, Tekirdağ",40.978092,27.511700
+Edirne,22,Süloğlu,1988,"Süloğlu, Edirne",41.770128,26.874000
+İstanbul,34,Sultanbeyli,2014,"Sultanbeyli, İstanbul",40.961112,29.266900
+Afyonkarahisar,3,Sultandağı,1639,"Sultandağı, Afyonkarahisar",38.531637,31.229900
+İstanbul,34,Sultangazi,2055,"Sultangazi, İstanbul",41.125579,28.871300
+Aksaray,68,Sultanhanı,2106,"Sultanhanı, Aksaray",38.242161,33.559300
+Aydın,9,Sultanhisar,1640,"Sultanhisar, Aydın",37.889733,28.154500
+Amasya,5,Suluova,1641,"Suluova, Amasya",40.836475,35.645600
+Tokat,60,Sulusaray,1987,"Sulusaray, Tokat",39.997505,36.083800
+Osmaniye,80,Sumbas,2028,"Sumbas, Osmaniye",37.447326,36.027600
+Çorum,19,Sungurlu,1642,"Sungurlu, Çorum",40.214154,34.334400
+Diyarbakır,21,Sur,2042,"Sur, Diyarbakır",38.059761,40.388600
+Trabzon,61,Sürmene,1647,"Sürmene, Trabzon",40.911365,40.118800
+Şanlıurfa,63,Suruç,1643,"Suruç, Şanlıurfa",36.975120,38.424300
+Sivas,58,Suşehri,1646,"Suşehri, Sivas",40.163154,38.091500
+Balıkesir,10,Susurluk,1644,"Susurluk, Balıkesir",39.913910,28.156900
+Kars,36,Susuz,1645,"Susuz, Kars",40.779633,43.129800
+Isparta,32,Sütçüler,1648,"Sütçüler, Isparta",37.495265,30.978700
+Kayseri,38,Talas,1846,"Talas, Kayseri",38.687501,35.555600
+Sakarya,54,Taraklı,1847,"Taraklı, Sakarya",40.396222,30.504900
+Mersin,33,Tarsus,1665,"Tarsus, Mersin",36.916561,34.895200
+Konya,42,Taşkent,1848,"Taşkent, Konya",36.923683,32.493200
+Kastamonu,37,Taşköprü,1666,"Taşköprü, Kastamonu",41.509945,34.210300
+Ağrı,4,Taşlıçay,1667,"Taşlıçay, Ağrı",39.636080,43.381000
+Amasya,5,Taşova,1668,"Taşova, Amasya",40.760551,36.322500
+Bitlis,13,Tatvan,1669,"Tatvan, Bitlis",38.501998,42.281300
+Denizli,20,Tavas,1670,"Tavas, Denizli",37.573068,29.071300
+Kütahya,43,Tavşanlı,1671,"Tavşanlı, Kütahya",39.547000,29.491400
+Burdur,15,Tefenni,1672,"Tefenni, Burdur",37.309500,29.774700
+Tekirdağ,59,Tekirdağ Merkez,1673,"Tekirdağ Merkez, Tekirdağ",40.978092,27.511700
+Samsun,55,Tekkeköy,1849,"Tekkeköy, Samsun",41.179000,36.473600
+Erzurum,25,Tekman,1674,"Tekman, Erzurum",39.645445,41.507400
+Eskişehir,26,Tepebaşı,2047,"Tepebaşı, Eskişehir",39.899874,30.481800
+Erzincan,24,Tercan,1675,"Tercan, Erzincan",39.777631,40.383700
+Yalova,77,Termal,2026,"Termal, Yalova",40.596551,29.174000
+Samsun,55,Terme,1676,"Terme, Samsun",41.144243,36.990000
+Siirt,56,Tillo,1878,"Tillo, Siirt",37.958555,42.044300
+İzmir,35,Tire,1677,"Tire, İzmir",38.089478,27.731800
+Giresun,28,Tirebolu,1678,"Tirebolu, Giresun",41.007457,38.814600
+Tokat,60,Tokat Merkez,1679,"Tokat Merkez, Tokat",40.323464,36.552200
+Kayseri,38,Tomarza,1680,"Tomarza, Kayseri",38.447925,35.799100
+Trabzon,61,Tonya,1681,"Tonya, Trabzon",40.886452,39.290800
+Osmaniye,80,Toprakkale,2029,"Toprakkale, Osmaniye",37.062415,36.145200
+İzmir,35,Torbalı,1682,"Torbalı, İzmir",38.192799,27.385100
+Mersin,33,Toroslar,2066,"Toroslar, Mersin",37.058967,34.419800
+Erzurum,25,Tortum,1683,"Tortum, Erzurum",40.397293,41.477300
+Gümüşhane,29,Torul,1684,"Torul, Gümüşhane",40.557866,39.293300
+Kastamonu,37,Tosya,1685,"Tosya, Kastamonu",41.017419,34.037500
+Trabzon,61,Trabzon Merkez,1686,"Trabzon Merkez, Trabzon",41.002697,39.716800
+Adana,1,Tufanbeyli,1687,"Tufanbeyli, Adana",38.262537,36.220500
+Tunceli,62,Tunceli Merkez,1688,"Tunceli Merkez, Tunceli",39.106170,39.548300
+Manisa,45,Turgutlu,1689,"Turgutlu, Manisa",38.500161,27.708400
+Tokat,60,Turhal,1690,"Turhal, Tokat",40.386158,36.087800
+Sinop,57,Türkeli,1693,"Türkeli, Sinop",41.948421,34.337000
+Kahramanmaraş,46,Türkoğlu,1694,"Türkoğlu, Kahramanmaraş",37.384751,36.846200
+Van,65,Tuşba,2099,"Tuşba, Van",38.501209,43.373000
+Adıyaman,2,Tut,1989,"Tut, Adıyaman",37.799863,37.957300
+Ağrı,4,Tutak,1691,"Tutak, Ağrı",39.542200,42.771800
+İstanbul,34,Tuzla,2015,"Tuzla, İstanbul",40.898231,29.359900
+Iğdır,76,Tuzluca,1692,"Tuzluca, Iğdır",39.963847,43.587800
+Konya,42,Tuzlukçu,1990,"Tuzlukçu, Konya",38.474377,31.629500
+Çorum,19,Uğurludağ,1850,"Uğurludağ, Çorum",40.445422,34.451600
+Muğla,48,Ula,1695,"Ula, Muğla",37.102153,28.417800
+Sivas,58,Ulaş,1991,"Ulaş, Sivas",39.444574,37.041000
+Ordu,52,Ulubey / Ordu,1696,"Ulubey / Ordu, Ordu",40.872955,37.758500
+Uşak,64,Ulubey / Uşak,1697,"Ulubey / Uşak, Uşak",38.421660,29.290500
+Isparta,32,Uluborlu,1699,"Uluborlu, Isparta",38.078329,30.450900
+Şırnak,73,Uludere,1698,"Uludere, Şırnak",37.429183,42.883100
+Niğde,51,Ulukışla,1700,"Ulukışla, Niğde",37.604454,34.597100
+Bartın,74,Ulus,1701,"Ulus, Bartın",41.563704,32.636400
+İstanbul,34,Ümraniye,1852,"Ümraniye, İstanbul",41.033329,29.101400
+Ordu,52,Ünye,1706,"Ünye, Ordu",41.127240,37.288600
+Nevşehir,50,Ürgüp,1707,"Ürgüp, Nevşehir",38.631169,34.912200
+İzmir,35,Urla,1703,"Urla, İzmir",38.324972,26.766800
+Uşak,64,Uşak Merkez,1704,"Uşak Merkez, Uşak",38.674229,29.405900
+İstanbul,34,Üsküdar,1708,"Üsküdar, İstanbul",41.018942,29.057600
+Erzincan,24,Üzümlü,1853,"Üzümlü, Erzincan",39.689897,39.719700
+Erzurum,25,Uzundere,1851,"Uzundere, Erzurum",40.611447,41.628500
+Edirne,22,Uzunköprü,1705,"Uzunköprü, Edirne",41.266979,26.687700
+Trabzon,61,Vakfıkebir,1709,"Vakfıkebir, Trabzon",41.045833,39.279000
+Van,65,Van Merkez,1710,"Van Merkez, Van",38.501209,43.373000
+Muş,49,Varto,1711,"Varto, Muş",39.173291,41.456000
+Samsun,55,Vezirköprü,1712,"Vezirköprü, Samsun",41.143111,35.460600
+Şanlıurfa,63,Viranşehir,1713,"Viranşehir, Şanlıurfa",37.235867,39.762400
+Kırklareli,39,Vize,1714,"Vize, Kırklareli",41.611115,27.782700
+Giresun,28,Yağlıdere,1854,"Yağlıdere, Giresun",40.864217,38.622400
+Kırıkkale,71,Yahşihan,1992,"Yahşihan, Kırıkkale",39.884442,33.427800
+Kayseri,38,Yahyalı,1715,"Yahyalı, Kayseri",38.099171,35.359200
+Samsun,55,Yakakent,1993,"Yakakent, Samsun",41.631232,35.530500
+Erzurum,25,Yakutiye,2045,"Yakutiye, Erzurum",39.905499,41.265800
+Konya,42,Yalıhüyük,1994,"Yalıhüyük, Konya",37.300534,32.085500
+Yalova,77,Yalova Merkez,1716,"Yalova Merkez, Yalova",40.654895,29.284200
+Isparta,32,Yalvaç,1717,"Yalvaç, Isparta",38.299473,31.175800
+Çankırı,18,Yapraklı,1718,"Yapraklı, Çankırı",40.703814,33.879900
+Muğla,48,Yatağan,1719,"Yatağan, Muğla",37.583333,28.233300
+Gaziantep,27,Yavuzeli,1720,"Yavuzeli, Gaziantep",37.318254,37.566800
+Hatay,31,Yayladağı,1721,"Yayladağı, Hatay",35.902971,36.062700
+Bingöl,12,Yayladere,1855,"Yayladere, Bingöl",39.227956,40.069100
+Malatya,44,Yazıhan,1995,"Yazıhan, Malatya",38.576433,38.166100
+Bingöl,12,Yedisu,1996,"Yedisu, Bingöl",39.433943,40.545300
+Bolu,14,Yeniçağa,1997,"Yeniçağa, Bolu",40.771323,32.029900
+Çanakkale,17,Yenice / Çanakkale,1722,"Yenice / Çanakkale, Çanakkale",39.929543,27.259300
+Karabük,78,Yenice / Karabük,1856,"Yenice / Karabük, Karabük",41.155461,32.244100
+Yozgat,66,Yenifakılı,1998,"Yenifakılı, Yozgat",39.211988,35.003100
+Ankara,6,Yenimahalle,1723,"Yenimahalle, Ankara",39.990429,32.695500
+Aydın,9,Yenipazar / Aydın,1724,"Yenipazar / Aydın, Aydın",37.823396,28.195700
+Bilecik,11,Yenipazar / Bilecik,1857,"Yenipazar / Bilecik, Bilecik",40.210396,30.504900
+Isparta,32,Yenişarbademli,2001,"Yenişarbademli, Isparta",37.705944,31.383300
+Bursa,16,Yenişehir / Bursa,1725,"Yenişehir / Bursa, Bursa",40.286735,29.649900
+Diyarbakır,21,Yenişehir / Diyarbakır,2043,"Yenişehir / Diyarbakır, Diyarbakır",37.924973,40.211000
+Mersin,33,Yenişehir / Mersin,2067,"Yenişehir / Mersin, Mersin",36.866186,34.486400
+Yozgat,66,Yerköy,1726,"Yerköy, Yozgat",39.641612,34.469400
+Kayseri,38,Yeşilhisar,1727,"Yeşilhisar, Kayseri",38.356160,35.085900
+Mardin,47,Yeşilli,2002,"Yeşilli, Mardin",37.339608,40.823000
+Burdur,15,Yeşilova,1728,"Yeşilova, Burdur",37.506858,29.752900
+Malatya,44,Yeşilyurt / Malatya,1729,"Yeşilyurt / Malatya, Malatya",38.295459,38.247500
+Tokat,60,Yeşilyurt / Tokat,1858,"Yeşilyurt / Tokat, Tokat",40.006471,36.220400
+Düzce,81,Yığılca,1730,"Yığılca, Düzce",40.960283,31.443000
+Bursa,16,Yıldırım,1859,"Yıldırım, Bursa",40.178711,29.162300
+Sivas,58,Yıldızeli,1731,"Yıldızeli, Sivas",39.866676,36.600400
+Trabzon,61,Yomra,1732,"Yomra, Trabzon",40.954017,39.867000
+Yozgat,66,Yozgat Merkez,1733,"Yozgat Merkez, Yozgat",39.821049,34.808600
+Hakkari,30,Yüksekova,1737,"Yüksekova, Hakkari",37.571716,44.282300
+Adana,1,Yumurtalık,1734,"Yumurtalık, Adana",36.768649,35.788200
+Konya,42,Yunak,1735,"Yunak, Konya",38.813456,31.735700
+Manisa,45,Yunusemre,2087,"Yunusemre, Manisa",38.775652,27.314600
+Adana,1,Yüreğir,1748,"Yüreğir, Adana",36.991419,35.330800
+Artvin,8,Yusufeli,1736,"Yusufeli, Artvin",40.820669,41.543600
+Sivas,58,Zara,1738,"Zara, Sivas",39.898445,37.757200
+İstanbul,34,Zeytinburnu,1739,"Zeytinburnu, İstanbul",40.990635,28.896100
+Tokat,60,Zile,1740,"Zile, Tokat",40.301847,35.886700
+Zonguldak,67,Zonguldak Merkez,1741,"Zonguldak Merkez, Zonguldak",41.453521,31.789400
