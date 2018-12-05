@@ -1,0 +1,22 @@
+SVG Image = "data:image/svg+xml;utf8," & 
+"<svg width='600' height='600' viewBox='0 0 600 600' xmlns='http://www.w3.org/2000/svg'>
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <g display='none' overflow='visible' y='0' x='0' height='100%' width='100%' id='canvasGrid'>
+   <rect fill='url(#gridpattern)' stroke-width='0' y='0' x='0' height='100%' width='100%'/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <a href='https://www.w3.org/TR/SVG/'>
+  <text stroke='#000' xml:space='preserve' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='40' id='svg_1' y='50' x='300' stroke-width='0' fill='#000000'>"&SUM(USA_Political[Votes])&"</text>
+  </a>
+  <ellipse ry='95.5' rx='"&Parameter[Parameter Value]*10&"' id='svg_3' cy='273.604167' cx='"&145.5+Parameter[Parameter Value]*10&"' stroke-width='1.5' stroke='#000' fill='#A0D58A'/>
+  <rect id='svg_2' height='"&Parameter[Parameter Value]*10&"' width='194' y='80.104167' x='193' stroke-width='1.5' stroke='#000' fill='#fff'>
+  <animate attributeName='fill' values='red;blue;red' dur='10s' repeatCount='indefinite' />
+  <animate attributeName='height' values='0;"&Parameter[Parameter Value]*10&"' dur='1s' repeatCount='1' />
+  </rect>
+  
+ </g>
+</svg>"
